@@ -1,0 +1,1001 @@
+RestaurantID,RestaurantName,Category,Neighborhood,PriceTier,GoodForKids,AverageRating,OpeningHour,ClosingHour
+1,Harbor Lights Grill,Chinese,Park Slope,Medium,TRUE,2.1,4:46 PM,3:33 PM
+2,Sunny Side Bistro,Japanese,Astoria,Expensive,TRUE,2.5,8:49 PM,12:43 PM
+3,The Rusty Spoon,Indian,Williamsburg,Cheap,FALSE,1.0,2:49 PM,6:13 PM
+4,The Rusty Spoon,Chinese,Bushwick,Medium,FALSE,3.6,3:45 PM,4:54 PM
+5,Harbor Lights Grill,Japanese,Astoria,Medium,FALSE,1.7,6:50 PM,12:26 PM
+6,Cafe Luna,French,Astoria,Expensive,TRUE,2.0,8:35 AM,11:24 AM
+7,The Rusty Spoon,Japanese,Long Island City,Cheap,TRUE,0.3,11:31 AM,2:22 PM
+8,Harbor Lights Grill,Italian,Chelsea,Expensive,FALSE,2.0,6:23 PM,9:45 AM
+9,Cafe Luna,French,Williamsburg,Medium,FALSE,4.9,10:20 PM,4:35 PM
+10,Cafe Luna,Italian,Greenwich Village,Expensive,TRUE,4.7,7:19 PM,3:03 PM
+11,Cafe Luna,French,Chelsea,Expensive,TRUE,3.5,7:28 PM,1:40 PM
+12,Harbor Lights Grill,Greek,Bed-Stuy,Cheap,TRUE,1.3,8:47 AM,4:27 PM
+13,Golden Harvest Cafe,American,Park Slope,Cheap,FALSE,1.1,9:01 AM,5:31 AM
+14,Sunny Side Bistro,Italian,Upper East Side,Medium,FALSE,4.0,8:22 PM,10:53 AM
+15,Harbor Lights Grill,Mediterranean,Chelsea,Medium,TRUE,2.3,5:11 PM,7:26 AM
+16,Cafe Luna,Thai,Harlem,Expensive,FALSE,3.1,11:13 PM,1:00 PM
+17,The Rusty Spoon,French,Park Slope,Expensive,FALSE,1.1,10:52 AM,9:03 AM
+18,Golden Harvest Cafe,Japanese,Chelsea,Cheap,FALSE,0.9,9:14 AM,2:37 AM
+19,Sunny Side Bistro,American,Long Island City,Expensive,TRUE,4.9,1:11 PM,9:10 AM
+20,Cafe Luna,Italian,Bed-Stuy,Cheap,TRUE,1.3,7:19 PM,8:25 AM
+21,Cafe Luna,Indian,Williamsburg,Medium,FALSE,4.1,9:10 AM,1:02 PM
+22,Golden Harvest Cafe,Japanese,Greenwich Village,Expensive,FALSE,4.7,3:26 PM,7:14 AM
+23,Harbor Lights Grill,Mediterranean,Harlem,Cheap,FALSE,0.6,12:08 PM,3:04 PM
+24,Harbor Lights Grill,Indian,Long Island City,Expensive,FALSE,2.3,5:09 PM,5:39 PM
+25,Sunny Side Bistro,Japanese,Chelsea,Cheap,FALSE,4.1,1:41 PM,10:36 AM
+26,Harbor Lights Grill,Italian,Bed-Stuy,Expensive,FALSE,2.8,8:59 AM,5:20 AM
+27,The Rusty Spoon,Chinese,Long Island City,Expensive,FALSE,2.5,8:00 AM,3:57 PM
+28,Golden Harvest Cafe,Greek,Astoria,Medium,FALSE,4.1,6:28 PM,10:47 AM
+29,Sunny Side Bistro,Japanese,Chelsea,Medium,TRUE,1.3,9:23 PM,8:46 AM
+30,Cafe Luna,French,Greenwich Village,Medium,TRUE,4.3,8:17 PM,12:38 PM
+31,The Rusty Spoon,Indian,Park Slope,Expensive,FALSE,3.1,8:08 PM,4:52 PM
+32,Golden Harvest Cafe,Thai,Long Island City,Expensive,TRUE,4.8,12:50 PM,9:08 AM
+33,Sunny Side Bistro,Thai,Upper East Side,Cheap,TRUE,1.9,1:48 PM,2:48 PM
+34,Sunny Side Bistro,American,Chelsea,Cheap,TRUE,2.6,8:14 AM,9:49 AM
+35,Harbor Lights Grill,Mexican,Chelsea,Medium,TRUE,2.0,5:33 PM,7:31 AM
+36,Cafe Luna,French,Park Slope,Cheap,FALSE,4.8,12:06 PM,11:13 AM
+37,Sunny Side Bistro,Greek,Park Slope,Medium,TRUE,2.8,7:22 AM,12:34 PM
+38,Golden Harvest Cafe,Italian,Astoria,Expensive,FALSE,0.5,9:44 AM,1:25 PM
+39,Harbor Lights Grill,Greek,Astoria,Medium,FALSE,2.4,7:39 AM,1:49 AM
+40,The Rusty Spoon,Indian,Astoria,Expensive,TRUE,1.3,11:23 AM,12:14 PM
+41,Cafe Luna,Mediterranean,Astoria,Cheap,FALSE,3.6,1:26 PM,7:46 AM
+42,Harbor Lights Grill,Italian,Upper East Side,Medium,FALSE,3.5,7:42 PM,9:35 AM
+43,The Rusty Spoon,American,Bushwick,Cheap,FALSE,1.4,10:20 AM,10:32 AM
+44,Cafe Luna,Mexican,Park Slope,Expensive,TRUE,1.6,10:36 PM,5:01 PM
+45,Golden Harvest Cafe,Greek,Chelsea,Expensive,TRUE,1.0,6:54 PM,3:39 PM
+46,The Rusty Spoon,Mediterranean,Bushwick,Medium,TRUE,0.7,7:45 PM,9:17 AM
+47,Harbor Lights Grill,Chinese,Bed-Stuy,Medium,FALSE,2.3,2:35 PM,7:06 AM
+48,The Rusty Spoon,Indian,Park Slope,Cheap,TRUE,2.8,9:45 PM,7:04 AM
+49,Golden Harvest Cafe,Greek,Bed-Stuy,Cheap,TRUE,0.7,1:24 PM,12:07 PM
+50,Golden Harvest Cafe,Chinese,Long Island City,Cheap,FALSE,1.6,11:38 AM,8:12 AM
+51,Cafe Luna,American,Park Slope,Cheap,TRUE,0.4,3:48 PM,1:52 AM
+52,Cafe Luna,Indian,Greenwich Village,Medium,TRUE,4.7,5:28 PM,3:38 AM
+53,The Rusty Spoon,Mediterranean,Williamsburg,Medium,TRUE,3.7,10:18 PM,1:54 PM
+54,Sunny Side Bistro,Greek,Bushwick,Cheap,FALSE,1.1,11:02 PM,10:50 AM
+55,Golden Harvest Cafe,Thai,Park Slope,Cheap,FALSE,0.7,9:45 AM,1:44 AM
+56,The Rusty Spoon,French,Upper East Side,Medium,FALSE,3.6,9:41 PM,8:47 AM
+57,The Rusty Spoon,Italian,Chelsea,Cheap,TRUE,3.8,8:37 AM,5:15 AM
+58,Cafe Luna,Italian,Long Island City,Expensive,TRUE,2.9,11:24 PM,2:58 PM
+59,Cafe Luna,Mexican,Long Island City,Medium,FALSE,1.2,11:06 AM,8:12 AM
+60,Sunny Side Bistro,Mediterranean,Long Island City,Expensive,TRUE,0.0,9:53 AM,4:13 PM
+61,Sunny Side Bistro,Chinese,Long Island City,Expensive,FALSE,3.4,7:27 PM,4:54 AM
+62,Sunny Side Bistro,Chinese,Williamsburg,Expensive,TRUE,4.5,11:08 AM,2:42 AM
+63,Harbor Lights Grill,Mediterranean,Upper East Side,Medium,FALSE,3.6,10:59 AM,7:27 AM
+64,Harbor Lights Grill,Greek,Harlem,Expensive,FALSE,1.5,11:33 AM,3:55 AM
+65,Golden Harvest Cafe,Chinese,Long Island City,Cheap,TRUE,3.5,5:42 PM,9:01 AM
+66,Cafe Luna,American,Bushwick,Cheap,TRUE,3.5,1:39 PM,5:04 AM
+67,Cafe Luna,Indian,Astoria,Expensive,FALSE,1.7,10:01 AM,5:55 PM
+68,Golden Harvest Cafe,Italian,Park Slope,Medium,FALSE,3.7,6:13 PM,7:29 AM
+69,Sunny Side Bistro,Greek,Long Island City,Expensive,FALSE,3.0,3:51 PM,5:56 PM
+70,Sunny Side Bistro,Japanese,Bed-Stuy,Medium,FALSE,1.5,11:13 AM,4:40 AM
+71,Sunny Side Bistro,Thai,Bed-Stuy,Cheap,FALSE,2.3,8:24 AM,1:54 AM
+72,The Rusty Spoon,Japanese,Harlem,Medium,TRUE,0.3,6:31 PM,6:16 PM
+73,Harbor Lights Grill,Greek,Upper East Side,Expensive,FALSE,0.3,1:30 PM,10:46 AM
+74,Golden Harvest Cafe,Greek,Astoria,Expensive,FALSE,3.8,9:38 PM,4:49 PM
+75,Harbor Lights Grill,French,Long Island City,Cheap,TRUE,4.4,8:41 PM,6:18 AM
+76,Harbor Lights Grill,American,Chelsea,Medium,FALSE,1.5,8:16 AM,4:16 PM
+77,Harbor Lights Grill,Chinese,Williamsburg,Medium,FALSE,0.8,10:18 AM,12:16 PM
+78,Cafe Luna,Japanese,Astoria,Expensive,TRUE,1.2,5:33 PM,8:13 AM
+79,Sunny Side Bistro,American,Bushwick,Medium,TRUE,1.1,2:30 PM,5:58 AM
+80,Harbor Lights Grill,Thai,Williamsburg,Expensive,FALSE,4.9,8:49 PM,5:06 AM
+81,Sunny Side Bistro,Mediterranean,Williamsburg,Cheap,FALSE,2.1,10:17 PM,1:36 PM
+82,Golden Harvest Cafe,Greek,Harlem,Cheap,TRUE,0.8,7:41 AM,6:26 AM
+83,Sunny Side Bistro,Italian,Long Island City,Cheap,TRUE,3.9,7:17 PM,8:03 AM
+84,Cafe Luna,Greek,Bushwick,Cheap,FALSE,2.2,11:37 AM,4:41 PM
+85,Cafe Luna,Indian,Astoria,Medium,FALSE,3.3,4:30 PM,8:26 AM
+86,Harbor Lights Grill,Japanese,Harlem,Expensive,TRUE,3.5,9:38 PM,10:47 AM
+87,Sunny Side Bistro,French,Harlem,Expensive,TRUE,2.1,1:47 PM,6:06 AM
+88,Golden Harvest Cafe,Italian,Greenwich Village,Cheap,TRUE,3.9,11:04 PM,1:14 PM
+89,The Rusty Spoon,American,Williamsburg,Expensive,FALSE,4.1,7:52 PM,5:03 AM
+90,The Rusty Spoon,Mediterranean,Williamsburg,Medium,FALSE,2.9,11:38 AM,2:37 PM
+91,Harbor Lights Grill,Chinese,Bed-Stuy,Expensive,TRUE,1.5,3:39 PM,4:01 AM
+92,Sunny Side Bistro,Japanese,Chelsea,Expensive,FALSE,4.0,8:40 AM,2:56 PM
+93,The Rusty Spoon,Japanese,Harlem,Medium,TRUE,3.2,11:28 PM,9:39 AM
+94,The Rusty Spoon,Mexican,Upper East Side,Medium,FALSE,3.9,5:22 PM,1:48 PM
+95,Golden Harvest Cafe,French,Park Slope,Medium,FALSE,2.4,3:19 PM,5:02 PM
+96,Cafe Luna,Thai,Chelsea,Medium,FALSE,2.7,8:18 AM,6:27 PM
+97,Cafe Luna,Thai,Upper East Side,Expensive,FALSE,1.6,11:17 AM,12:26 PM
+98,Sunny Side Bistro,Mexican,Long Island City,Cheap,TRUE,4.8,7:55 AM,4:57 AM
+99,Sunny Side Bistro,Italian,Park Slope,Cheap,TRUE,3.8,12:31 PM,1:44 PM
+100,Sunny Side Bistro,Indian,Astoria,Cheap,FALSE,4.1,6:31 PM,11:54 AM
+101,Golden Harvest Cafe,Italian,Bed-Stuy,Expensive,FALSE,4.9,8:36 AM,1:55 AM
+102,Harbor Lights Grill,French,Chelsea,Cheap,TRUE,2.5,10:33 AM,4:36 PM
+103,Golden Harvest Cafe,Greek,Astoria,Cheap,TRUE,1.4,7:22 AM,12:27 PM
+104,Harbor Lights Grill,Greek,Bed-Stuy,Expensive,TRUE,2.2,6:39 PM,7:06 AM
+105,The Rusty Spoon,Indian,Harlem,Expensive,TRUE,0.7,10:46 PM,7:14 AM
+106,Sunny Side Bistro,Mediterranean,Chelsea,Medium,TRUE,4.1,7:27 PM,6:00 AM
+107,Cafe Luna,Chinese,Chelsea,Medium,TRUE,0.0,8:44 AM,1:02 PM
+108,Golden Harvest Cafe,Mediterranean,Harlem,Cheap,FALSE,2.3,5:03 PM,2:02 PM
+109,Cafe Luna,Thai,Chelsea,Medium,TRUE,3.4,5:22 PM,8:19 AM
+110,Cafe Luna,Indian,Chelsea,Expensive,TRUE,0.6,10:31 AM,6:00 PM
+111,Golden Harvest Cafe,Japanese,Greenwich Village,Medium,TRUE,2.1,2:01 PM,6:11 PM
+112,The Rusty Spoon,American,Long Island City,Expensive,FALSE,2.2,11:37 AM,2:21 PM
+113,Cafe Luna,Indian,Harlem,Cheap,TRUE,1.6,10:49 AM,4:50 AM
+114,Cafe Luna,Japanese,Williamsburg,Expensive,FALSE,4.0,7:09 PM,3:24 AM
+115,Cafe Luna,French,Chelsea,Expensive,FALSE,1.1,10:11 AM,1:23 PM
+116,Harbor Lights Grill,Japanese,Park Slope,Expensive,FALSE,3.7,10:38 PM,3:17 AM
+117,Golden Harvest Cafe,Japanese,Williamsburg,Medium,TRUE,0.5,1:43 PM,9:13 AM
+118,Harbor Lights Grill,French,Bushwick,Cheap,FALSE,0.2,4:49 PM,4:09 PM
+119,The Rusty Spoon,Greek,Greenwich Village,Medium,FALSE,2.2,6:10 PM,6:07 PM
+120,Golden Harvest Cafe,Chinese,Greenwich Village,Cheap,FALSE,2.4,8:42 PM,4:59 PM
+121,Golden Harvest Cafe,Indian,Chelsea,Expensive,FALSE,1.9,4:52 PM,1:49 AM
+122,Sunny Side Bistro,Italian,Williamsburg,Cheap,TRUE,0.2,9:40 PM,10:59 AM
+123,The Rusty Spoon,Chinese,Harlem,Cheap,FALSE,5.0,9:54 PM,2:50 AM
+124,The Rusty Spoon,American,Upper East Side,Expensive,TRUE,4.1,11:59 AM,8:41 AM
+125,Cafe Luna,Japanese,Bed-Stuy,Medium,FALSE,0.1,6:13 PM,2:56 AM
+126,Harbor Lights Grill,Thai,Park Slope,Expensive,TRUE,3.7,8:17 PM,6:58 AM
+127,Golden Harvest Cafe,Italian,Chelsea,Expensive,TRUE,1.6,7:44 PM,10:16 AM
+128,Cafe Luna,Mediterranean,Astoria,Medium,FALSE,0.9,7:21 AM,5:41 AM
+129,Golden Harvest Cafe,American,Long Island City,Medium,TRUE,2.1,6:37 PM,2:15 PM
+130,Sunny Side Bistro,Mediterranean,Chelsea,Cheap,TRUE,0.4,11:18 PM,6:13 PM
+131,Golden Harvest Cafe,Mexican,Astoria,Cheap,TRUE,2.3,8:38 PM,4:32 AM
+132,Sunny Side Bistro,Japanese,Park Slope,Cheap,TRUE,0.5,3:50 PM,5:45 AM
+133,Sunny Side Bistro,Chinese,Chelsea,Cheap,TRUE,1.0,4:31 PM,5:57 AM
+134,Golden Harvest Cafe,Chinese,Upper East Side,Cheap,FALSE,4.5,8:35 PM,1:49 PM
+135,Cafe Luna,Thai,Astoria,Medium,TRUE,4.3,5:44 PM,5:45 PM
+136,The Rusty Spoon,Indian,Williamsburg,Expensive,TRUE,4.5,6:39 PM,10:12 AM
+137,Cafe Luna,Mexican,Bushwick,Expensive,FALSE,1.0,2:42 PM,9:03 AM
+138,Harbor Lights Grill,French,Greenwich Village,Expensive,FALSE,2.1,3:36 PM,4:56 AM
+139,Sunny Side Bistro,Greek,Upper East Side,Medium,FALSE,4.8,11:26 PM,11:29 AM
+140,Harbor Lights Grill,Italian,Bushwick,Medium,FALSE,0.2,10:50 AM,5:09 AM
+141,The Rusty Spoon,Italian,Williamsburg,Expensive,TRUE,3.4,8:08 AM,1:04 PM
+142,Harbor Lights Grill,Chinese,Greenwich Village,Cheap,FALSE,1.8,5:55 PM,3:51 AM
+143,Harbor Lights Grill,Thai,Long Island City,Expensive,TRUE,0.6,3:44 PM,3:18 PM
+144,Golden Harvest Cafe,Mediterranean,Bushwick,Expensive,TRUE,4.9,9:14 AM,5:32 PM
+145,Golden Harvest Cafe,Chinese,Park Slope,Medium,TRUE,0.5,6:43 PM,5:21 PM
+146,Sunny Side Bistro,French,Chelsea,Expensive,FALSE,3.3,1:46 PM,7:25 AM
+147,Cafe Luna,Mediterranean,Williamsburg,Cheap,FALSE,0.9,9:12 AM,2:57 AM
+148,Sunny Side Bistro,Mediterranean,Bed-Stuy,Cheap,FALSE,1.0,8:56 PM,3:06 PM
+149,The Rusty Spoon,Mexican,Upper East Side,Expensive,TRUE,3.9,10:08 AM,2:14 AM
+150,The Rusty Spoon,Indian,Park Slope,Medium,FALSE,1.9,1:02 PM,4:31 AM
+151,Golden Harvest Cafe,Mexican,Greenwich Village,Expensive,TRUE,0.1,6:00 PM,5:03 AM
+152,Cafe Luna,Mediterranean,Greenwich Village,Cheap,TRUE,3.6,9:36 AM,2:18 AM
+153,The Rusty Spoon,Mediterranean,Long Island City,Medium,TRUE,4.9,9:06 AM,6:33 AM
+154,Cafe Luna,American,Chelsea,Medium,TRUE,4.6,10:22 AM,3:33 PM
+155,Cafe Luna,Mediterranean,Williamsburg,Medium,TRUE,1.0,11:53 AM,5:54 AM
+156,The Rusty Spoon,Italian,Park Slope,Medium,TRUE,2.3,1:18 PM,7:03 AM
+157,Golden Harvest Cafe,Italian,Williamsburg,Medium,TRUE,1.9,9:07 PM,10:13 AM
+158,Sunny Side Bistro,French,Bushwick,Cheap,TRUE,4.0,11:25 PM,8:00 AM
+159,Golden Harvest Cafe,Chinese,Upper East Side,Expensive,FALSE,1.6,7:53 AM,9:55 AM
+160,Sunny Side Bistro,Mediterranean,Park Slope,Expensive,FALSE,1.5,2:59 PM,2:33 AM
+161,Golden Harvest Cafe,American,Upper East Side,Cheap,TRUE,0.1,1:21 PM,10:16 AM
+162,Sunny Side Bistro,Chinese,Harlem,Expensive,FALSE,3.0,7:40 AM,10:33 AM
+163,Golden Harvest Cafe,Thai,Bed-Stuy,Cheap,FALSE,1.1,3:07 PM,1:50 AM
+164,The Rusty Spoon,Indian,Long Island City,Medium,TRUE,3.3,3:51 PM,6:41 AM
+165,The Rusty Spoon,Thai,Greenwich Village,Medium,TRUE,3.7,3:23 PM,9:27 AM
+166,The Rusty Spoon,Japanese,Chelsea,Cheap,FALSE,3.1,2:04 PM,11:32 AM
+167,The Rusty Spoon,Chinese,Bed-Stuy,Expensive,TRUE,2.9,4:29 PM,4:43 PM
+168,The Rusty Spoon,American,Williamsburg,Cheap,TRUE,4.7,5:38 PM,1:29 PM
+169,Cafe Luna,Thai,Park Slope,Expensive,FALSE,2.4,7:57 PM,2:00 AM
+170,Sunny Side Bistro,American,Park Slope,Expensive,FALSE,0.5,1:28 PM,3:01 AM
+171,Harbor Lights Grill,Mediterranean,Greenwich Village,Cheap,FALSE,4.9,2:19 PM,4:46 PM
+172,The Rusty Spoon,Mexican,Williamsburg,Expensive,FALSE,3.6,7:27 PM,5:41 AM
+173,The Rusty Spoon,Italian,Astoria,Expensive,FALSE,2.8,11:57 PM,5:31 AM
+174,Golden Harvest Cafe,Mediterranean,Williamsburg,Medium,FALSE,2.7,6:38 PM,8:49 AM
+175,Harbor Lights Grill,Mexican,Long Island City,Cheap,FALSE,0.0,11:34 PM,3:59 PM
+176,Harbor Lights Grill,American,Chelsea,Expensive,FALSE,3.9,2:32 PM,6:14 AM
+177,Sunny Side Bistro,Italian,Long Island City,Cheap,TRUE,1.5,12:53 PM,12:34 PM
+178,Golden Harvest Cafe,Italian,Bushwick,Cheap,FALSE,2.4,1:34 PM,7:12 AM
+179,Cafe Luna,Indian,Greenwich Village,Expensive,FALSE,2.6,6:36 PM,6:42 AM
+180,Sunny Side Bistro,Greek,Harlem,Medium,FALSE,2.1,1:57 PM,2:55 AM
+181,Sunny Side Bistro,Indian,Astoria,Expensive,TRUE,1.8,9:48 AM,4:33 PM
+182,The Rusty Spoon,Mexican,Williamsburg,Expensive,TRUE,0.3,6:15 PM,8:46 AM
+183,Harbor Lights Grill,Thai,Upper East Side,Cheap,FALSE,4.2,11:07 PM,5:45 AM
+184,Sunny Side Bistro,Indian,Bed-Stuy,Cheap,TRUE,0.2,9:27 PM,11:32 AM
+185,The Rusty Spoon,Greek,Upper East Side,Cheap,FALSE,0.5,8:28 AM,11:21 AM
+186,The Rusty Spoon,Japanese,Greenwich Village,Expensive,FALSE,2.6,7:43 AM,7:35 AM
+187,Golden Harvest Cafe,Mediterranean,Long Island City,Expensive,FALSE,3.3,10:43 AM,7:46 AM
+188,Sunny Side Bistro,Indian,Greenwich Village,Expensive,TRUE,3.0,10:07 PM,4:50 PM
+189,The Rusty Spoon,Italian,Long Island City,Expensive,FALSE,1.8,7:49 AM,4:30 AM
+190,Golden Harvest Cafe,Italian,Williamsburg,Expensive,FALSE,2.4,7:18 AM,3:29 AM
+191,Harbor Lights Grill,French,Long Island City,Cheap,FALSE,3.4,10:18 PM,1:06 PM
+192,Cafe Luna,American,Harlem,Expensive,TRUE,1.2,9:46 AM,6:12 PM
+193,Cafe Luna,Mediterranean,Upper East Side,Cheap,TRUE,0.5,11:46 PM,8:47 AM
+194,Golden Harvest Cafe,Greek,Astoria,Medium,FALSE,1.4,6:03 PM,4:35 PM
+195,Harbor Lights Grill,French,Upper East Side,Expensive,FALSE,2.9,9:55 PM,4:40 AM
+196,The Rusty Spoon,Mediterranean,Upper East Side,Expensive,TRUE,0.9,9:38 AM,2:59 PM
+197,The Rusty Spoon,Mediterranean,Upper East Side,Expensive,TRUE,1.6,9:19 AM,4:27 AM
+198,Golden Harvest Cafe,Mexican,Bushwick,Medium,TRUE,4.1,10:51 AM,4:47 AM
+199,Sunny Side Bistro,Greek,Long Island City,Cheap,TRUE,1.3,11:07 PM,10:18 AM
+200,The Rusty Spoon,Mexican,Bed-Stuy,Cheap,FALSE,4.4,10:33 AM,5:22 AM
+201,Harbor Lights Grill,Japanese,Greenwich Village,Medium,TRUE,3.2,8:35 AM,11:13 AM
+202,Sunny Side Bistro,Mediterranean,Williamsburg,Cheap,FALSE,2.2,9:02 AM,3:30 AM
+203,Sunny Side Bistro,Japanese,Greenwich Village,Medium,FALSE,3.0,9:30 PM,4:19 PM
+204,Harbor Lights Grill,Greek,Greenwich Village,Medium,TRUE,4.0,3:57 PM,9:34 AM
+205,The Rusty Spoon,Indian,Park Slope,Medium,TRUE,2.1,5:27 PM,7:48 AM
+206,Sunny Side Bistro,Mexican,Chelsea,Expensive,TRUE,1.3,7:24 PM,6:02 AM
+207,Golden Harvest Cafe,American,Astoria,Medium,TRUE,2.4,9:58 PM,2:37 PM
+208,Cafe Luna,Chinese,Williamsburg,Cheap,TRUE,4.3,1:52 PM,8:03 AM
+209,The Rusty Spoon,Greek,Long Island City,Cheap,TRUE,0.1,5:33 PM,8:12 AM
+210,Golden Harvest Cafe,Mexican,Long Island City,Medium,FALSE,1.7,9:13 AM,2:44 AM
+211,Cafe Luna,Mexican,Bushwick,Medium,TRUE,2.1,12:01 PM,4:59 AM
+212,Golden Harvest Cafe,Chinese,Bushwick,Medium,FALSE,3.8,11:21 PM,12:59 PM
+213,Sunny Side Bistro,Indian,Harlem,Expensive,TRUE,1.1,1:47 PM,9:23 AM
+214,Golden Harvest Cafe,Greek,Astoria,Expensive,TRUE,4.5,10:32 AM,1:22 PM
+215,Sunny Side Bistro,Indian,Park Slope,Medium,TRUE,0.5,8:22 AM,12:49 PM
+216,Cafe Luna,Mexican,Park Slope,Cheap,FALSE,0.4,7:36 PM,11:12 AM
+217,Golden Harvest Cafe,Chinese,Bed-Stuy,Cheap,TRUE,4.6,2:49 PM,2:57 AM
+218,Cafe Luna,Thai,Long Island City,Cheap,TRUE,4.3,10:20 PM,10:48 AM
+219,The Rusty Spoon,Italian,Astoria,Expensive,TRUE,1.6,11:28 AM,2:00 AM
+220,Cafe Luna,Greek,Bushwick,Expensive,TRUE,1.6,8:08 PM,1:29 PM
+221,Harbor Lights Grill,Greek,Long Island City,Expensive,TRUE,3.6,10:47 AM,9:32 AM
+222,Harbor Lights Grill,Mexican,Harlem,Cheap,TRUE,2.6,4:37 PM,12:29 PM
+223,Golden Harvest Cafe,American,Bushwick,Expensive,TRUE,2.3,3:25 PM,5:28 PM
+224,Sunny Side Bistro,American,Bed-Stuy,Medium,TRUE,2.8,8:03 PM,4:29 PM
+225,Cafe Luna,French,Harlem,Expensive,TRUE,1.5,8:05 AM,10:30 AM
+226,Sunny Side Bistro,Japanese,Long Island City,Medium,TRUE,3.3,4:20 PM,5:13 AM
+227,Cafe Luna,Thai,Bed-Stuy,Cheap,FALSE,0.9,3:23 PM,12:55 PM
+228,Sunny Side Bistro,Greek,Upper East Side,Expensive,FALSE,2.4,6:43 PM,8:54 AM
+229,Harbor Lights Grill,Mexican,Bed-Stuy,Medium,TRUE,4.6,1:19 PM,3:19 AM
+230,The Rusty Spoon,Chinese,Chelsea,Expensive,TRUE,0.8,9:02 PM,2:09 AM
+231,Golden Harvest Cafe,Thai,Long Island City,Medium,TRUE,4.0,2:41 PM,11:05 AM
+232,Sunny Side Bistro,Mexican,Long Island City,Cheap,TRUE,1.8,2:33 PM,3:19 AM
+233,Harbor Lights Grill,Japanese,Bed-Stuy,Cheap,FALSE,4.4,8:49 PM,9:23 AM
+234,The Rusty Spoon,Italian,Harlem,Medium,FALSE,3.5,11:37 AM,6:11 PM
+235,Cafe Luna,Mediterranean,Chelsea,Expensive,FALSE,4.3,7:10 PM,6:05 PM
+236,The Rusty Spoon,Indian,Greenwich Village,Cheap,FALSE,4.8,5:19 PM,9:31 AM
+237,Golden Harvest Cafe,Mexican,Astoria,Cheap,FALSE,2.6,9:41 AM,4:20 AM
+238,Sunny Side Bistro,Greek,Long Island City,Medium,TRUE,4.6,1:13 PM,1:27 PM
+239,The Rusty Spoon,French,Park Slope,Medium,FALSE,4.2,2:13 PM,7:25 AM
+240,Golden Harvest Cafe,American,Upper East Side,Medium,FALSE,1.6,8:55 PM,9:46 AM
+241,The Rusty Spoon,American,Astoria,Expensive,FALSE,1.3,10:52 AM,3:23 PM
+242,The Rusty Spoon,Italian,Harlem,Medium,TRUE,0.1,8:24 AM,4:27 PM
+243,Harbor Lights Grill,Thai,Greenwich Village,Cheap,FALSE,4.5,11:29 AM,2:59 AM
+244,Golden Harvest Cafe,Mexican,Bushwick,Medium,TRUE,1.2,7:04 AM,8:17 AM
+245,Sunny Side Bistro,French,Bed-Stuy,Cheap,FALSE,2.8,11:35 AM,2:21 AM
+246,Cafe Luna,Italian,Harlem,Cheap,TRUE,0.3,10:51 PM,7:26 AM
+247,Cafe Luna,Japanese,Park Slope,Cheap,TRUE,0.4,8:36 AM,4:39 PM
+248,The Rusty Spoon,French,Greenwich Village,Cheap,TRUE,4.3,11:21 AM,12:11 PM
+249,Sunny Side Bistro,Greek,Williamsburg,Cheap,FALSE,4.9,5:46 PM,5:49 PM
+250,Harbor Lights Grill,Japanese,Williamsburg,Medium,TRUE,0.5,2:18 PM,10:07 AM
+251,Cafe Luna,Indian,Williamsburg,Cheap,TRUE,0.6,4:22 PM,12:47 PM
+252,Sunny Side Bistro,Japanese,Long Island City,Expensive,FALSE,0.6,4:45 PM,4:14 PM
+253,Sunny Side Bistro,Greek,Long Island City,Medium,FALSE,2.9,4:56 PM,7:22 AM
+254,Sunny Side Bistro,Indian,Bushwick,Cheap,TRUE,4.2,6:47 PM,5:05 PM
+255,Sunny Side Bistro,Mediterranean,Astoria,Expensive,FALSE,3.1,11:53 AM,10:09 AM
+256,Sunny Side Bistro,American,Bushwick,Medium,FALSE,3.9,8:41 AM,3:35 AM
+257,Cafe Luna,Mexican,Astoria,Medium,FALSE,1.2,2:03 PM,3:48 PM
+258,Cafe Luna,Greek,Bed-Stuy,Cheap,FALSE,0.5,7:21 PM,6:20 AM
+259,Sunny Side Bistro,American,Astoria,Expensive,TRUE,2.7,12:59 PM,1:09 PM
+260,Cafe Luna,Mediterranean,Harlem,Cheap,TRUE,0.8,3:27 PM,8:42 AM
+261,Sunny Side Bistro,American,Chelsea,Expensive,TRUE,2.0,12:17 PM,1:19 PM
+262,The Rusty Spoon,Mediterranean,Bed-Stuy,Cheap,FALSE,0.6,9:00 PM,2:33 AM
+263,Harbor Lights Grill,Chinese,Harlem,Medium,FALSE,4.7,7:57 PM,12:19 PM
+264,Golden Harvest Cafe,Chinese,Park Slope,Cheap,FALSE,3.3,8:42 AM,1:45 PM
+265,Sunny Side Bistro,Indian,Bed-Stuy,Expensive,FALSE,3.0,9:03 AM,7:22 AM
+266,Sunny Side Bistro,Indian,Williamsburg,Cheap,TRUE,2.5,7:25 AM,12:18 PM
+267,Golden Harvest Cafe,Indian,Greenwich Village,Medium,TRUE,4.7,4:41 PM,9:16 AM
+268,The Rusty Spoon,Greek,Greenwich Village,Expensive,TRUE,4.0,12:39 PM,2:29 PM
+269,The Rusty Spoon,Chinese,Greenwich Village,Expensive,FALSE,1.2,1:04 PM,1:20 PM
+270,Golden Harvest Cafe,Chinese,Upper East Side,Expensive,FALSE,2.3,8:20 PM,1:27 PM
+271,Harbor Lights Grill,Japanese,Harlem,Medium,FALSE,2.6,7:45 PM,2:39 AM
+272,Cafe Luna,Mediterranean,Greenwich Village,Medium,FALSE,1.4,7:32 PM,2:14 AM
+273,Golden Harvest Cafe,Italian,Williamsburg,Medium,FALSE,0.9,3:43 PM,5:31 PM
+274,Cafe Luna,Thai,Upper East Side,Medium,TRUE,0.9,2:45 PM,10:26 AM
+275,Golden Harvest Cafe,Mediterranean,Chelsea,Cheap,TRUE,3.6,8:44 PM,11:46 AM
+276,The Rusty Spoon,Mediterranean,Greenwich Village,Medium,TRUE,0.3,7:03 AM,6:11 PM
+277,Sunny Side Bistro,Thai,Park Slope,Expensive,FALSE,3.2,9:00 PM,5:00 PM
+278,Golden Harvest Cafe,Mediterranean,Bushwick,Cheap,TRUE,0.2,5:41 PM,10:36 AM
+279,Cafe Luna,Greek,Harlem,Medium,FALSE,0.9,4:23 PM,2:13 AM
+280,Cafe Luna,American,Long Island City,Expensive,TRUE,2.4,11:07 PM,5:55 AM
+281,Harbor Lights Grill,Italian,Bushwick,Cheap,TRUE,0.2,2:54 PM,2:09 PM
+282,Harbor Lights Grill,American,Chelsea,Expensive,FALSE,4.9,10:39 AM,10:14 AM
+283,The Rusty Spoon,American,Park Slope,Cheap,TRUE,1.0,7:23 PM,10:24 AM
+284,Harbor Lights Grill,Italian,Astoria,Expensive,TRUE,2.7,3:25 PM,2:45 PM
+285,Sunny Side Bistro,American,Greenwich Village,Cheap,TRUE,0.7,10:33 PM,5:45 PM
+286,Harbor Lights Grill,French,Upper East Side,Cheap,TRUE,2.6,7:04 PM,10:31 AM
+287,Harbor Lights Grill,American,Bed-Stuy,Medium,TRUE,0.8,10:07 PM,3:50 AM
+288,Golden Harvest Cafe,Italian,Bed-Stuy,Cheap,TRUE,2.3,5:58 PM,12:10 PM
+289,Harbor Lights Grill,Japanese,Astoria,Cheap,FALSE,4.8,1:07 PM,12:25 PM
+290,Harbor Lights Grill,Italian,Williamsburg,Expensive,FALSE,3.3,7:54 AM,2:40 AM
+291,Sunny Side Bistro,Mediterranean,Greenwich Village,Cheap,FALSE,1.0,11:16 AM,9:21 AM
+292,The Rusty Spoon,Italian,Williamsburg,Cheap,TRUE,2.6,1:20 PM,11:35 AM
+293,Harbor Lights Grill,French,Astoria,Expensive,TRUE,2.8,9:54 AM,2:27 PM
+294,The Rusty Spoon,Italian,Harlem,Cheap,FALSE,2.8,11:07 PM,9:10 AM
+295,Sunny Side Bistro,Mexican,Chelsea,Cheap,TRUE,4.6,8:16 AM,6:41 AM
+296,Golden Harvest Cafe,Japanese,Bed-Stuy,Expensive,FALSE,2.5,8:01 AM,2:47 PM
+297,The Rusty Spoon,Greek,Park Slope,Cheap,TRUE,1.0,1:46 PM,5:30 PM
+298,Sunny Side Bistro,Italian,Williamsburg,Medium,FALSE,3.0,8:51 AM,4:42 AM
+299,Sunny Side Bistro,Japanese,Astoria,Expensive,FALSE,1.2,5:29 PM,6:14 AM
+300,The Rusty Spoon,Greek,Greenwich Village,Medium,FALSE,0.3,12:41 PM,2:03 AM
+301,Cafe Luna,Greek,Astoria,Cheap,FALSE,0.6,10:59 PM,4:52 AM
+302,Golden Harvest Cafe,French,Long Island City,Cheap,TRUE,3.7,12:24 PM,7:25 AM
+303,The Rusty Spoon,Chinese,Long Island City,Cheap,FALSE,2.2,11:27 AM,11:25 AM
+304,Sunny Side Bistro,American,Bushwick,Cheap,TRUE,2.5,4:29 PM,4:37 AM
+305,Harbor Lights Grill,Mexican,Bushwick,Expensive,TRUE,2.7,7:01 PM,12:16 PM
+306,Harbor Lights Grill,Indian,Bed-Stuy,Cheap,TRUE,1.3,11:48 AM,7:14 AM
+307,Cafe Luna,Indian,Bushwick,Cheap,TRUE,3.7,8:35 PM,3:17 PM
+308,Harbor Lights Grill,Mexican,Long Island City,Expensive,TRUE,1.5,6:48 PM,4:06 PM
+309,Cafe Luna,Indian,Chelsea,Cheap,FALSE,4.7,2:26 PM,2:25 PM
+310,Golden Harvest Cafe,Japanese,Greenwich Village,Expensive,TRUE,0.8,9:07 PM,2:39 PM
+311,The Rusty Spoon,Mediterranean,Long Island City,Cheap,FALSE,0.3,10:37 PM,4:13 AM
+312,Harbor Lights Grill,Chinese,Astoria,Cheap,FALSE,4.7,11:43 PM,9:51 AM
+313,Harbor Lights Grill,Mediterranean,Long Island City,Cheap,FALSE,3.0,7:39 AM,1:30 AM
+314,Golden Harvest Cafe,Italian,Bed-Stuy,Cheap,FALSE,2.8,6:10 PM,5:54 PM
+315,Harbor Lights Grill,Greek,Bed-Stuy,Expensive,TRUE,2.8,8:17 PM,6:48 AM
+316,The Rusty Spoon,Italian,Bed-Stuy,Cheap,TRUE,4.5,12:05 PM,5:21 PM
+317,Cafe Luna,Mexican,Park Slope,Expensive,TRUE,0.6,10:54 AM,9:53 AM
+318,Golden Harvest Cafe,Indian,Long Island City,Cheap,FALSE,4.5,12:38 PM,2:11 AM
+319,Harbor Lights Grill,Thai,Upper East Side,Expensive,TRUE,0.3,6:44 PM,6:10 AM
+320,Sunny Side Bistro,Thai,Upper East Side,Expensive,TRUE,0.8,3:20 PM,2:14 AM
+321,Harbor Lights Grill,Greek,Harlem,Cheap,FALSE,0.7,7:14 PM,1:30 PM
+322,Golden Harvest Cafe,Thai,Bushwick,Medium,TRUE,2.9,9:31 PM,4:00 AM
+323,Cafe Luna,Mexican,Park Slope,Cheap,TRUE,3.1,7:25 PM,8:18 AM
+324,Golden Harvest Cafe,Mediterranean,Harlem,Medium,FALSE,2.5,7:17 PM,1:55 AM
+325,Sunny Side Bistro,Japanese,Greenwich Village,Expensive,FALSE,0.7,10:02 AM,10:58 AM
+326,Harbor Lights Grill,Greek,Williamsburg,Expensive,FALSE,3.7,6:47 PM,1:28 PM
+327,Golden Harvest Cafe,Mexican,Bed-Stuy,Medium,FALSE,1.2,10:48 AM,5:17 AM
+328,The Rusty Spoon,Japanese,Long Island City,Cheap,TRUE,3.8,11:32 AM,11:18 AM
+329,The Rusty Spoon,Mexican,Park Slope,Medium,FALSE,0.4,7:29 PM,11:18 AM
+330,Golden Harvest Cafe,French,Park Slope,Expensive,TRUE,0.6,6:25 PM,7:29 AM
+331,Harbor Lights Grill,Mexican,Long Island City,Cheap,TRUE,1.2,6:00 PM,6:11 AM
+332,Cafe Luna,Japanese,Upper East Side,Expensive,FALSE,1.6,1:57 PM,8:34 AM
+333,Sunny Side Bistro,Chinese,Chelsea,Medium,FALSE,4.2,3:49 PM,3:31 PM
+334,Cafe Luna,American,Upper East Side,Expensive,TRUE,0.7,9:13 PM,2:53 PM
+335,Sunny Side Bistro,Italian,Astoria,Medium,FALSE,3.3,7:59 PM,1:23 PM
+336,Cafe Luna,Japanese,Bushwick,Medium,FALSE,0.6,6:11 PM,5:18 AM
+337,Golden Harvest Cafe,Chinese,Greenwich Village,Expensive,TRUE,3.2,7:27 PM,3:21 AM
+338,The Rusty Spoon,French,Chelsea,Medium,TRUE,4.5,3:42 PM,6:14 PM
+339,Cafe Luna,Thai,Bushwick,Expensive,TRUE,3.9,3:16 PM,6:22 PM
+340,Golden Harvest Cafe,French,Bushwick,Medium,TRUE,3.7,2:57 PM,2:04 PM
+341,Sunny Side Bistro,Japanese,Bushwick,Medium,TRUE,1.6,12:05 PM,1:49 PM
+342,The Rusty Spoon,Chinese,Long Island City,Cheap,FALSE,4.4,11:03 PM,4:27 PM
+343,Harbor Lights Grill,Indian,Bed-Stuy,Medium,FALSE,0.7,4:42 PM,11:22 AM
+344,Sunny Side Bistro,French,Harlem,Cheap,FALSE,3.1,8:46 PM,5:36 PM
+345,Golden Harvest Cafe,Mexican,Astoria,Expensive,FALSE,4.6,8:56 PM,4:31 PM
+346,Harbor Lights Grill,Japanese,Greenwich Village,Cheap,TRUE,4.3,9:20 AM,12:28 PM
+347,Cafe Luna,Japanese,Bed-Stuy,Expensive,FALSE,2.2,11:33 AM,4:45 PM
+348,Cafe Luna,Italian,Bed-Stuy,Medium,FALSE,2.7,8:19 PM,5:13 PM
+349,Sunny Side Bistro,Thai,Long Island City,Cheap,FALSE,4.2,7:34 AM,3:41 AM
+350,Sunny Side Bistro,Mediterranean,Williamsburg,Cheap,FALSE,3.9,5:41 PM,2:49 PM
+351,Golden Harvest Cafe,Greek,Harlem,Cheap,TRUE,2.4,7:23 AM,11:19 AM
+352,Golden Harvest Cafe,Mexican,Long Island City,Medium,FALSE,4.3,5:36 PM,1:30 PM
+353,Cafe Luna,Italian,Astoria,Cheap,TRUE,2.0,2:17 PM,12:22 PM
+354,Sunny Side Bistro,American,Harlem,Expensive,TRUE,0.5,9:29 AM,11:51 AM
+355,Cafe Luna,Mexican,Park Slope,Cheap,TRUE,4.9,5:10 PM,5:36 AM
+356,The Rusty Spoon,Greek,Williamsburg,Medium,TRUE,0.6,6:41 PM,5:45 PM
+357,Golden Harvest Cafe,Italian,Bed-Stuy,Medium,FALSE,2.1,7:26 AM,8:33 AM
+358,Sunny Side Bistro,Mexican,Bed-Stuy,Expensive,FALSE,0.6,1:46 PM,2:33 PM
+359,Sunny Side Bistro,Indian,Astoria,Medium,TRUE,2.2,10:18 AM,3:10 PM
+360,Golden Harvest Cafe,Thai,Long Island City,Medium,TRUE,0.7,9:48 AM,4:10 AM
+361,The Rusty Spoon,American,Long Island City,Cheap,TRUE,1.3,1:41 PM,3:25 PM
+362,Cafe Luna,Chinese,Park Slope,Cheap,TRUE,3.3,10:57 AM,5:09 AM
+363,Harbor Lights Grill,Mexican,Greenwich Village,Cheap,TRUE,0.6,2:48 PM,10:56 AM
+364,Harbor Lights Grill,American,Bed-Stuy,Medium,TRUE,3.7,11:26 PM,3:39 PM
+365,Sunny Side Bistro,Italian,Harlem,Cheap,FALSE,3.9,8:51 PM,9:58 AM
+366,Cafe Luna,Chinese,Upper East Side,Expensive,FALSE,0.5,7:13 PM,4:59 AM
+367,Harbor Lights Grill,French,Greenwich Village,Cheap,FALSE,3.0,12:42 PM,10:00 AM
+368,Sunny Side Bistro,French,Williamsburg,Medium,TRUE,3.1,9:49 AM,8:22 AM
+369,The Rusty Spoon,Italian,Greenwich Village,Medium,FALSE,1.6,6:02 PM,6:05 PM
+370,Cafe Luna,Greek,Long Island City,Expensive,FALSE,2.0,12:35 PM,4:27 AM
+371,Harbor Lights Grill,Thai,Long Island City,Expensive,FALSE,0.8,11:04 PM,7:54 AM
+372,Cafe Luna,Mediterranean,Harlem,Medium,FALSE,1.8,8:17 AM,12:05 PM
+373,Golden Harvest Cafe,Mediterranean,Astoria,Expensive,TRUE,2.5,10:32 AM,2:46 AM
+374,The Rusty Spoon,Mediterranean,Park Slope,Medium,TRUE,0.4,8:14 AM,10:55 AM
+375,Harbor Lights Grill,Indian,Astoria,Cheap,TRUE,4.5,2:29 PM,5:16 AM
+376,Harbor Lights Grill,Greek,Williamsburg,Medium,FALSE,0.8,4:55 PM,12:30 PM
+377,Harbor Lights Grill,Mediterranean,Astoria,Expensive,TRUE,1.4,10:59 AM,6:22 PM
+378,Sunny Side Bistro,Mediterranean,Park Slope,Medium,TRUE,0.1,12:44 PM,3:43 AM
+379,The Rusty Spoon,Mexican,Harlem,Expensive,TRUE,0.4,3:09 PM,5:55 PM
+380,Sunny Side Bistro,French,Harlem,Cheap,FALSE,1.3,8:36 AM,6:28 AM
+381,Harbor Lights Grill,Chinese,Long Island City,Expensive,FALSE,1.7,10:21 AM,3:44 PM
+382,Sunny Side Bistro,Chinese,Chelsea,Medium,TRUE,1.2,4:29 PM,1:38 AM
+383,The Rusty Spoon,Italian,Astoria,Medium,FALSE,1.6,8:56 PM,6:14 PM
+384,Sunny Side Bistro,Mexican,Bushwick,Expensive,TRUE,4.6,6:31 PM,3:11 PM
+385,The Rusty Spoon,Chinese,Bushwick,Cheap,TRUE,4.5,10:53 PM,4:08 PM
+386,Sunny Side Bistro,Thai,Greenwich Village,Expensive,FALSE,1.0,1:47 PM,12:23 PM
+387,Sunny Side Bistro,Italian,Williamsburg,Cheap,TRUE,2.9,12:48 PM,4:02 AM
+388,The Rusty Spoon,Thai,Chelsea,Expensive,TRUE,2.5,7:41 PM,10:44 AM
+389,The Rusty Spoon,Italian,Bed-Stuy,Medium,TRUE,0.9,11:02 PM,3:51 PM
+390,Harbor Lights Grill,Indian,Park Slope,Cheap,TRUE,2.7,2:47 PM,6:20 PM
+391,Cafe Luna,Indian,Bushwick,Cheap,FALSE,2.5,8:29 PM,3:27 PM
+392,Sunny Side Bistro,Japanese,Long Island City,Expensive,TRUE,2.4,11:41 AM,3:31 PM
+393,Harbor Lights Grill,American,Astoria,Medium,FALSE,1.4,4:41 PM,2:34 AM
+394,Golden Harvest Cafe,Mexican,Bushwick,Cheap,FALSE,0.3,12:55 PM,2:17 AM
+395,The Rusty Spoon,Mexican,Greenwich Village,Medium,FALSE,2.3,5:52 PM,12:46 PM
+396,Cafe Luna,Japanese,Chelsea,Expensive,FALSE,1.4,5:11 PM,3:55 PM
+397,Harbor Lights Grill,Thai,Bed-Stuy,Medium,FALSE,3.4,10:12 PM,4:51 PM
+398,Harbor Lights Grill,Mediterranean,Greenwich Village,Medium,TRUE,0.9,11:45 AM,1:36 AM
+399,Sunny Side Bistro,French,Greenwich Village,Medium,TRUE,2.5,11:03 AM,4:26 PM
+400,Harbor Lights Grill,Mediterranean,Bed-Stuy,Medium,TRUE,2.1,5:24 PM,2:21 PM
+401,Harbor Lights Grill,Mediterranean,Chelsea,Expensive,FALSE,2.9,9:22 PM,3:23 AM
+402,The Rusty Spoon,American,Astoria,Expensive,TRUE,0.5,6:55 PM,4:28 PM
+403,Sunny Side Bistro,Greek,Bed-Stuy,Medium,TRUE,3.7,4:58 PM,2:23 PM
+404,The Rusty Spoon,Italian,Bushwick,Expensive,TRUE,1.8,10:26 AM,1:52 PM
+405,Harbor Lights Grill,French,Astoria,Cheap,TRUE,2.8,8:01 PM,4:46 PM
+406,The Rusty Spoon,American,Bushwick,Expensive,TRUE,1.5,3:49 PM,9:56 AM
+407,Golden Harvest Cafe,Chinese,Greenwich Village,Medium,FALSE,2.5,11:50 AM,12:45 PM
+408,Harbor Lights Grill,Chinese,Bushwick,Medium,FALSE,0.3,9:11 AM,4:25 PM
+409,Harbor Lights Grill,French,Bushwick,Cheap,FALSE,2.5,11:49 AM,2:23 PM
+410,Golden Harvest Cafe,Mexican,Williamsburg,Cheap,TRUE,1.5,9:34 PM,1:02 PM
+411,The Rusty Spoon,Mediterranean,Harlem,Medium,FALSE,1.2,11:31 PM,8:22 AM
+412,Harbor Lights Grill,Chinese,Chelsea,Cheap,FALSE,4.0,7:01 PM,1:48 AM
+413,Sunny Side Bistro,Thai,Long Island City,Cheap,TRUE,4.5,11:55 PM,1:06 PM
+414,Sunny Side Bistro,French,Harlem,Medium,FALSE,3.5,10:06 PM,1:41 PM
+415,Cafe Luna,Mexican,Bushwick,Medium,FALSE,3.0,9:18 PM,6:23 PM
+416,Cafe Luna,French,Bushwick,Expensive,FALSE,0.7,8:02 PM,11:22 AM
+417,Golden Harvest Cafe,Greek,Williamsburg,Medium,TRUE,1.3,3:01 PM,1:50 PM
+418,Golden Harvest Cafe,French,Park Slope,Cheap,TRUE,3.1,3:57 PM,5:19 PM
+419,The Rusty Spoon,Mediterranean,Park Slope,Cheap,TRUE,2.7,9:13 AM,6:14 PM
+420,Cafe Luna,American,Williamsburg,Medium,FALSE,4.2,5:01 PM,6:11 PM
+421,Harbor Lights Grill,Mexican,Chelsea,Medium,FALSE,2.9,11:50 PM,8:35 AM
+422,The Rusty Spoon,Italian,Park Slope,Medium,TRUE,3.2,3:16 PM,3:12 AM
+423,Sunny Side Bistro,Japanese,Greenwich Village,Cheap,TRUE,0.1,5:34 PM,3:54 PM
+424,Cafe Luna,Italian,Astoria,Medium,TRUE,1.0,6:33 PM,2:45 AM
+425,The Rusty Spoon,Japanese,Bed-Stuy,Cheap,FALSE,1.0,5:15 PM,6:31 AM
+426,Golden Harvest Cafe,Mediterranean,Astoria,Cheap,FALSE,2.8,10:39 PM,5:19 AM
+427,Cafe Luna,French,Bushwick,Cheap,TRUE,0.4,7:41 PM,11:03 AM
+428,Cafe Luna,Italian,Chelsea,Expensive,TRUE,1.5,12:20 PM,5:46 AM
+429,Golden Harvest Cafe,Mexican,Upper East Side,Cheap,TRUE,4.3,9:09 PM,5:22 AM
+430,The Rusty Spoon,Greek,Upper East Side,Cheap,FALSE,2.5,12:14 PM,6:03 PM
+431,Golden Harvest Cafe,Greek,Astoria,Cheap,TRUE,1.3,5:10 PM,3:29 AM
+432,The Rusty Spoon,Italian,Upper East Side,Medium,FALSE,4.4,1:05 PM,1:37 PM
+433,Harbor Lights Grill,Japanese,Bushwick,Medium,TRUE,0.5,4:40 PM,1:16 PM
+434,Sunny Side Bistro,Indian,Bushwick,Expensive,TRUE,4.0,10:02 PM,12:05 PM
+435,Golden Harvest Cafe,Mediterranean,Long Island City,Cheap,TRUE,3.8,9:28 AM,2:17 AM
+436,The Rusty Spoon,Japanese,Harlem,Expensive,FALSE,2.1,11:22 AM,11:42 AM
+437,Sunny Side Bistro,Mediterranean,Park Slope,Expensive,TRUE,4.0,9:15 PM,12:05 PM
+438,Harbor Lights Grill,Italian,Bushwick,Expensive,TRUE,3.7,11:47 AM,6:13 AM
+439,The Rusty Spoon,American,Park Slope,Medium,FALSE,1.4,10:38 AM,6:04 AM
+440,Harbor Lights Grill,Japanese,Long Island City,Cheap,TRUE,0.9,2:39 PM,8:26 AM
+441,Harbor Lights Grill,Greek,Long Island City,Expensive,FALSE,1.2,10:39 PM,1:15 PM
+442,Cafe Luna,Mexican,Park Slope,Medium,TRUE,1.3,8:00 AM,12:16 PM
+443,Cafe Luna,Mediterranean,Park Slope,Medium,TRUE,0.2,11:13 PM,2:13 PM
+444,Sunny Side Bistro,French,Long Island City,Medium,FALSE,3.2,5:02 PM,9:17 AM
+445,The Rusty Spoon,Thai,Park Slope,Expensive,TRUE,3.2,5:11 PM,12:45 PM
+446,Harbor Lights Grill,Greek,Park Slope,Medium,FALSE,4.4,8:05 AM,10:06 AM
+447,Golden Harvest Cafe,Italian,Chelsea,Cheap,TRUE,3.6,9:26 AM,11:04 AM
+448,Sunny Side Bistro,Japanese,Harlem,Medium,TRUE,1.0,1:26 PM,2:37 AM
+449,The Rusty Spoon,Chinese,Chelsea,Medium,TRUE,3.8,8:25 AM,3:57 AM
+450,Cafe Luna,Chinese,Williamsburg,Expensive,TRUE,0.6,9:49 AM,9:43 AM
+451,The Rusty Spoon,Thai,Harlem,Medium,TRUE,0.5,12:40 PM,1:26 PM
+452,Cafe Luna,Mexican,Bed-Stuy,Cheap,TRUE,4.6,7:50 AM,5:45 AM
+453,Sunny Side Bistro,Chinese,Williamsburg,Cheap,TRUE,4.3,8:58 PM,5:17 PM
+454,Harbor Lights Grill,Thai,Chelsea,Expensive,TRUE,0.0,5:23 PM,6:16 AM
+455,Cafe Luna,American,Upper East Side,Cheap,FALSE,4.2,5:09 PM,1:38 PM
+456,Golden Harvest Cafe,Mediterranean,Williamsburg,Expensive,TRUE,1.6,9:47 PM,3:23 AM
+457,Cafe Luna,Mexican,Greenwich Village,Medium,TRUE,1.2,8:01 AM,8:30 AM
+458,Sunny Side Bistro,French,Long Island City,Expensive,FALSE,1.7,1:39 PM,4:58 AM
+459,Cafe Luna,Thai,Williamsburg,Medium,FALSE,1.4,1:06 PM,4:41 AM
+460,Sunny Side Bistro,Italian,Astoria,Expensive,TRUE,0.3,8:18 PM,12:31 PM
+461,Cafe Luna,Mexican,Long Island City,Medium,FALSE,4.3,3:31 PM,3:01 PM
+462,The Rusty Spoon,Italian,Bed-Stuy,Expensive,FALSE,2.9,11:28 AM,3:15 PM
+463,Golden Harvest Cafe,Mexican,Chelsea,Medium,TRUE,0.4,1:11 PM,3:08 AM
+464,Cafe Luna,American,Long Island City,Medium,FALSE,0.5,3:11 PM,2:04 PM
+465,Cafe Luna,Mexican,Astoria,Expensive,TRUE,1.5,7:19 PM,12:02 PM
+466,The Rusty Spoon,Mexican,Long Island City,Expensive,FALSE,4.3,5:31 PM,4:49 AM
+467,Cafe Luna,Japanese,Harlem,Cheap,FALSE,2.4,10:46 PM,11:03 AM
+468,Sunny Side Bistro,Greek,Bushwick,Expensive,TRUE,0.4,7:41 AM,3:22 PM
+469,Golden Harvest Cafe,Thai,Upper East Side,Cheap,TRUE,0.2,8:52 AM,6:12 AM
+470,Golden Harvest Cafe,French,Bed-Stuy,Medium,TRUE,2.2,9:14 PM,6:47 AM
+471,Sunny Side Bistro,French,Upper East Side,Medium,FALSE,3.9,7:06 AM,5:46 AM
+472,Sunny Side Bistro,Indian,Harlem,Expensive,TRUE,2.1,7:55 PM,6:08 AM
+473,Cafe Luna,Italian,Harlem,Medium,TRUE,4.3,8:41 PM,4:17 PM
+474,The Rusty Spoon,Italian,Bushwick,Cheap,FALSE,3.4,8:30 PM,12:46 PM
+475,Cafe Luna,Japanese,Greenwich Village,Medium,FALSE,2.6,12:43 PM,7:24 AM
+476,The Rusty Spoon,Japanese,Williamsburg,Cheap,FALSE,1.3,2:56 PM,5:35 PM
+477,Golden Harvest Cafe,Indian,Long Island City,Medium,TRUE,2.9,9:19 AM,1:32 PM
+478,Cafe Luna,Italian,Harlem,Cheap,TRUE,4.4,9:34 AM,12:44 PM
+479,Sunny Side Bistro,Japanese,Bushwick,Cheap,TRUE,3.6,12:18 PM,7:33 AM
+480,Golden Harvest Cafe,Greek,Bed-Stuy,Medium,FALSE,2.0,8:06 AM,4:32 PM
+481,Golden Harvest Cafe,French,Long Island City,Expensive,FALSE,2.4,6:46 PM,5:58 PM
+482,Cafe Luna,Greek,Williamsburg,Cheap,TRUE,3.7,3:35 PM,6:07 AM
+483,Harbor Lights Grill,Japanese,Upper East Side,Expensive,FALSE,2.1,9:44 PM,11:24 AM
+484,Harbor Lights Grill,American,Upper East Side,Cheap,FALSE,0.7,7:41 PM,3:33 PM
+485,Cafe Luna,French,Park Slope,Cheap,TRUE,3.1,2:54 PM,1:34 PM
+486,The Rusty Spoon,Indian,Astoria,Cheap,FALSE,4.8,8:01 PM,8:46 AM
+487,The Rusty Spoon,Thai,Bushwick,Cheap,TRUE,3.7,4:52 PM,1:30 AM
+488,Golden Harvest Cafe,French,Chelsea,Cheap,FALSE,3.8,10:14 PM,11:22 AM
+489,Sunny Side Bistro,American,Williamsburg,Cheap,FALSE,3.3,11:35 PM,5:25 PM
+490,Cafe Luna,Mediterranean,Park Slope,Expensive,FALSE,3.8,3:19 PM,7:12 AM
+491,Sunny Side Bistro,Mediterranean,Long Island City,Medium,FALSE,2.2,2:09 PM,3:27 AM
+492,Harbor Lights Grill,Mediterranean,Chelsea,Expensive,FALSE,2.3,7:09 PM,2:51 PM
+493,Golden Harvest Cafe,American,Astoria,Medium,TRUE,2.3,7:26 PM,9:02 AM
+494,The Rusty Spoon,Indian,Park Slope,Medium,FALSE,0.8,3:10 PM,3:35 AM
+495,Cafe Luna,Thai,Astoria,Expensive,FALSE,1.4,2:34 PM,4:41 AM
+496,Sunny Side Bistro,French,Upper East Side,Expensive,FALSE,3.8,3:21 PM,4:21 AM
+497,The Rusty Spoon,Thai,Chelsea,Expensive,FALSE,3.0,11:41 PM,8:03 AM
+498,Golden Harvest Cafe,Chinese,Long Island City,Cheap,FALSE,3.3,3:19 PM,2:34 PM
+499,Cafe Luna,Mediterranean,Harlem,Medium,FALSE,4.3,4:57 PM,6:15 PM
+500,The Rusty Spoon,Thai,Long Island City,Medium,FALSE,0.4,11:17 AM,10:23 AM
+501,The Rusty Spoon,Mediterranean,Chelsea,Expensive,TRUE,4.3,11:43 AM,8:43 AM
+502,The Rusty Spoon,American,Harlem,Medium,TRUE,3.4,5:56 PM,11:23 AM
+503,The Rusty Spoon,Japanese,Chelsea,Cheap,FALSE,3.8,7:37 PM,6:22 AM
+504,Cafe Luna,Japanese,Upper East Side,Expensive,FALSE,1.7,10:21 PM,8:39 AM
+505,Sunny Side Bistro,Italian,Chelsea,Cheap,FALSE,0.8,10:26 AM,3:58 AM
+506,Cafe Luna,Chinese,Greenwich Village,Medium,TRUE,3.4,8:23 PM,4:26 PM
+507,Golden Harvest Cafe,American,Bushwick,Cheap,TRUE,1.1,9:38 PM,5:49 PM
+508,Golden Harvest Cafe,Italian,Upper East Side,Medium,FALSE,1.6,7:43 AM,3:22 AM
+509,Sunny Side Bistro,American,Upper East Side,Medium,FALSE,0.3,11:46 AM,4:30 AM
+510,Harbor Lights Grill,Mediterranean,Long Island City,Expensive,FALSE,4.2,12:38 PM,3:30 PM
+511,The Rusty Spoon,Italian,Greenwich Village,Expensive,TRUE,0.5,9:42 PM,1:55 AM
+512,Golden Harvest Cafe,Italian,Upper East Side,Cheap,TRUE,2.5,5:21 PM,4:24 AM
+513,Harbor Lights Grill,Thai,Chelsea,Medium,FALSE,4.1,11:28 PM,5:02 AM
+514,Golden Harvest Cafe,Mediterranean,Harlem,Expensive,FALSE,2.5,9:42 AM,3:20 PM
+515,Cafe Luna,French,Long Island City,Cheap,TRUE,0.4,7:21 AM,3:06 AM
+516,Golden Harvest Cafe,Indian,Chelsea,Cheap,FALSE,0.2,9:08 AM,4:13 AM
+517,Harbor Lights Grill,Greek,Astoria,Expensive,TRUE,1.4,3:28 PM,8:18 AM
+518,Sunny Side Bistro,Chinese,Long Island City,Expensive,FALSE,1.4,6:29 PM,2:32 AM
+519,Harbor Lights Grill,Mexican,Long Island City,Medium,FALSE,3.8,3:56 PM,11:03 AM
+520,Harbor Lights Grill,Mediterranean,Harlem,Expensive,FALSE,2.9,10:29 AM,1:54 PM
+521,Harbor Lights Grill,Italian,Williamsburg,Expensive,TRUE,4.9,6:14 PM,3:57 PM
+522,The Rusty Spoon,French,Williamsburg,Medium,FALSE,2.0,4:39 PM,2:49 PM
+523,Sunny Side Bistro,French,Bed-Stuy,Cheap,FALSE,0.8,9:32 AM,10:48 AM
+524,Harbor Lights Grill,Greek,Upper East Side,Medium,TRUE,0.4,10:32 PM,3:46 PM
+525,The Rusty Spoon,American,Harlem,Cheap,TRUE,0.7,8:50 AM,9:16 AM
+526,Sunny Side Bistro,Italian,Long Island City,Medium,TRUE,4.1,2:43 PM,12:57 PM
+527,Cafe Luna,Indian,Bushwick,Expensive,TRUE,3.5,7:01 AM,1:09 PM
+528,Harbor Lights Grill,Mediterranean,Bushwick,Cheap,FALSE,2.9,8:20 AM,5:54 AM
+529,Cafe Luna,Mediterranean,Harlem,Expensive,FALSE,4.9,2:53 PM,3:00 PM
+530,The Rusty Spoon,Greek,Harlem,Medium,FALSE,3.3,7:40 PM,5:50 AM
+531,The Rusty Spoon,Italian,Long Island City,Expensive,TRUE,3.0,10:23 AM,6:25 AM
+532,Harbor Lights Grill,Japanese,Chelsea,Medium,TRUE,2.2,1:03 PM,2:00 AM
+533,Cafe Luna,Mexican,Greenwich Village,Expensive,FALSE,4.6,1:17 PM,6:14 PM
+534,The Rusty Spoon,Mexican,Park Slope,Medium,TRUE,2.8,5:57 PM,3:32 PM
+535,Cafe Luna,Greek,Greenwich Village,Medium,TRUE,0.6,2:21 PM,11:20 AM
+536,Golden Harvest Cafe,Japanese,Greenwich Village,Expensive,FALSE,1.1,10:57 AM,5:22 AM
+537,Cafe Luna,Thai,Williamsburg,Medium,FALSE,2.8,2:27 PM,5:05 AM
+538,Cafe Luna,Mediterranean,Greenwich Village,Medium,FALSE,3.2,7:24 PM,4:47 AM
+539,Harbor Lights Grill,Indian,Bushwick,Expensive,FALSE,0.8,4:17 PM,5:23 AM
+540,Sunny Side Bistro,Mediterranean,Astoria,Cheap,TRUE,2.5,8:38 AM,9:41 AM
+541,The Rusty Spoon,Chinese,Park Slope,Cheap,FALSE,2.9,9:18 PM,7:18 AM
+542,Golden Harvest Cafe,Japanese,Bushwick,Expensive,TRUE,2.2,9:33 PM,4:28 PM
+543,The Rusty Spoon,American,Bushwick,Medium,TRUE,4.5,9:35 PM,2:51 PM
+544,The Rusty Spoon,Mediterranean,Bed-Stuy,Expensive,TRUE,2.1,12:02 PM,4:40 AM
+545,Cafe Luna,Thai,Upper East Side,Expensive,FALSE,4.0,11:26 AM,4:09 AM
+546,Harbor Lights Grill,Mediterranean,Chelsea,Cheap,FALSE,3.3,10:42 AM,7:11 AM
+547,Golden Harvest Cafe,Thai,Upper East Side,Cheap,FALSE,2.6,11:47 PM,4:06 AM
+548,Cafe Luna,Japanese,Chelsea,Expensive,FALSE,3.8,9:33 AM,6:40 AM
+549,Harbor Lights Grill,Indian,Bushwick,Medium,TRUE,0.2,11:31 AM,6:53 AM
+550,Golden Harvest Cafe,French,Williamsburg,Expensive,TRUE,4.2,8:21 PM,5:28 PM
+551,The Rusty Spoon,Thai,Harlem,Cheap,FALSE,3.7,1:47 PM,2:04 AM
+552,Cafe Luna,Mediterranean,Bed-Stuy,Expensive,FALSE,3.5,9:04 PM,7:50 AM
+553,Sunny Side Bistro,Indian,Park Slope,Cheap,TRUE,3.2,7:54 AM,8:19 AM
+554,Harbor Lights Grill,Italian,Harlem,Cheap,FALSE,1.4,7:32 PM,2:20 PM
+555,Golden Harvest Cafe,Mediterranean,Chelsea,Cheap,FALSE,3.7,7:45 AM,11:15 AM
+556,Harbor Lights Grill,Japanese,Long Island City,Medium,FALSE,1.8,10:37 AM,1:55 AM
+557,The Rusty Spoon,Chinese,Bushwick,Expensive,FALSE,3.9,8:20 AM,5:20 PM
+558,Cafe Luna,Chinese,Bushwick,Cheap,TRUE,5.0,5:27 PM,12:35 PM
+559,Sunny Side Bistro,Japanese,Long Island City,Cheap,FALSE,0.3,5:10 PM,10:03 AM
+560,The Rusty Spoon,Mediterranean,Bushwick,Cheap,TRUE,3.3,10:24 PM,5:10 PM
+561,Harbor Lights Grill,American,Park Slope,Cheap,TRUE,5.0,5:52 PM,5:46 AM
+562,Golden Harvest Cafe,Indian,Bed-Stuy,Medium,FALSE,2.2,4:44 PM,3:08 AM
+563,Cafe Luna,Indian,Chelsea,Expensive,FALSE,1.1,9:20 AM,3:49 PM
+564,Harbor Lights Grill,Thai,Park Slope,Cheap,FALSE,3.4,3:36 PM,6:03 PM
+565,Harbor Lights Grill,American,Long Island City,Expensive,TRUE,2.3,11:20 PM,11:57 AM
+566,Cafe Luna,Chinese,Greenwich Village,Medium,FALSE,4.9,11:03 PM,4:22 PM
+567,Harbor Lights Grill,Chinese,Park Slope,Cheap,TRUE,2.3,1:29 PM,3:55 AM
+568,The Rusty Spoon,Japanese,Astoria,Medium,TRUE,2.6,9:31 AM,10:49 AM
+569,Cafe Luna,Mediterranean,Williamsburg,Expensive,TRUE,0.2,2:21 PM,10:15 AM
+570,The Rusty Spoon,French,Chelsea,Medium,TRUE,4.4,10:51 PM,5:08 PM
+571,Cafe Luna,Mexican,Upper East Side,Cheap,TRUE,0.5,8:55 PM,1:00 PM
+572,Sunny Side Bistro,American,Upper East Side,Medium,FALSE,4.6,5:07 PM,2:27 AM
+573,The Rusty Spoon,Italian,Upper East Side,Expensive,FALSE,3.1,7:33 AM,12:32 PM
+574,Cafe Luna,Indian,Greenwich Village,Medium,TRUE,3.7,10:57 AM,10:35 AM
+575,Harbor Lights Grill,Chinese,Bed-Stuy,Medium,FALSE,1.0,11:13 AM,6:33 AM
+576,Harbor Lights Grill,Chinese,Williamsburg,Cheap,FALSE,3.8,11:56 PM,2:04 AM
+577,The Rusty Spoon,Thai,Bushwick,Expensive,FALSE,2.1,9:41 PM,8:59 AM
+578,The Rusty Spoon,Japanese,Chelsea,Expensive,FALSE,1.3,10:53 PM,5:01 AM
+579,Harbor Lights Grill,Chinese,Long Island City,Medium,TRUE,0.5,8:55 AM,5:40 PM
+580,Sunny Side Bistro,Indian,Park Slope,Medium,TRUE,1.0,3:11 PM,3:44 AM
+581,The Rusty Spoon,Japanese,Bushwick,Medium,FALSE,0.9,7:05 AM,8:15 AM
+582,Cafe Luna,Italian,Park Slope,Cheap,FALSE,4.4,9:35 PM,1:59 PM
+583,Sunny Side Bistro,French,Bushwick,Medium,FALSE,4.0,2:46 PM,4:17 AM
+584,Golden Harvest Cafe,French,Bed-Stuy,Medium,TRUE,4.8,10:45 PM,6:05 PM
+585,Cafe Luna,Mexican,Long Island City,Cheap,TRUE,2.6,8:19 AM,8:30 AM
+586,Sunny Side Bistro,Mexican,Bushwick,Cheap,FALSE,3.4,11:18 PM,5:43 AM
+587,Harbor Lights Grill,Thai,Bushwick,Medium,TRUE,3.0,10:53 AM,3:08 PM
+588,Cafe Luna,Greek,Harlem,Cheap,FALSE,4.1,4:28 PM,4:39 AM
+589,The Rusty Spoon,French,Bed-Stuy,Medium,FALSE,4.1,8:44 PM,2:38 PM
+590,The Rusty Spoon,American,Harlem,Expensive,FALSE,3.1,10:24 PM,5:02 AM
+591,Cafe Luna,Chinese,Upper East Side,Cheap,FALSE,2.5,11:55 AM,7:13 AM
+592,The Rusty Spoon,Greek,Harlem,Cheap,FALSE,1.2,8:59 PM,1:11 PM
+593,Cafe Luna,French,Chelsea,Expensive,FALSE,1.0,8:20 PM,4:12 AM
+594,Sunny Side Bistro,Greek,Bed-Stuy,Cheap,TRUE,0.5,10:10 AM,4:21 AM
+595,Harbor Lights Grill,Japanese,Greenwich Village,Expensive,FALSE,3.8,1:40 PM,6:49 AM
+596,The Rusty Spoon,Chinese,Williamsburg,Expensive,TRUE,2.7,9:51 AM,1:24 PM
+597,Harbor Lights Grill,Japanese,Upper East Side,Medium,TRUE,2.0,2:39 PM,6:11 PM
+598,Cafe Luna,Japanese,Park Slope,Expensive,TRUE,0.9,8:20 PM,5:29 PM
+599,Sunny Side Bistro,Mediterranean,Williamsburg,Medium,FALSE,4.2,11:20 PM,7:39 AM
+600,Cafe Luna,Thai,Long Island City,Medium,FALSE,3.6,11:05 AM,12:01 PM
+601,Cafe Luna,French,Bed-Stuy,Medium,TRUE,3.2,12:52 PM,6:21 AM
+602,Sunny Side Bistro,Thai,Park Slope,Medium,FALSE,0.5,5:59 PM,2:19 PM
+603,Sunny Side Bistro,Japanese,Harlem,Expensive,FALSE,3.7,2:00 PM,8:47 AM
+604,The Rusty Spoon,Mediterranean,Bushwick,Medium,TRUE,1.7,8:07 AM,9:08 AM
+605,Cafe Luna,Italian,Bushwick,Medium,TRUE,1.8,12:50 PM,4:53 PM
+606,Cafe Luna,Mediterranean,Harlem,Expensive,FALSE,4.7,8:45 PM,6:47 AM
+607,Golden Harvest Cafe,Mediterranean,Williamsburg,Expensive,TRUE,3.4,8:02 AM,2:14 PM
+608,Cafe Luna,French,Long Island City,Expensive,TRUE,2.8,1:53 PM,3:36 PM
+609,Cafe Luna,Thai,Williamsburg,Medium,TRUE,1.1,8:57 PM,2:00 PM
+610,Cafe Luna,Thai,Bed-Stuy,Medium,TRUE,2.1,8:41 PM,3:21 AM
+611,Sunny Side Bistro,French,Astoria,Cheap,FALSE,4.7,2:43 PM,3:14 AM
+612,Golden Harvest Cafe,Thai,Upper East Side,Medium,FALSE,2.1,10:01 PM,5:52 AM
+613,The Rusty Spoon,Chinese,Bed-Stuy,Cheap,FALSE,4.3,11:49 PM,3:09 PM
+614,Harbor Lights Grill,Italian,Park Slope,Medium,FALSE,4.9,7:43 PM,1:42 PM
+615,Golden Harvest Cafe,Mediterranean,Astoria,Medium,FALSE,3.6,9:31 PM,10:43 AM
+616,Harbor Lights Grill,French,Astoria,Expensive,TRUE,1.0,11:00 PM,5:10 PM
+617,Cafe Luna,French,Long Island City,Expensive,FALSE,1.4,10:42 PM,3:23 PM
+618,Cafe Luna,Indian,Bed-Stuy,Expensive,FALSE,2.5,10:55 PM,4:55 PM
+619,Sunny Side Bistro,Indian,Astoria,Medium,TRUE,0.3,6:34 PM,2:49 AM
+620,Cafe Luna,American,Astoria,Expensive,TRUE,2.1,9:22 AM,7:21 AM
+621,Cafe Luna,Greek,Chelsea,Medium,TRUE,3.0,11:23 PM,2:49 AM
+622,Harbor Lights Grill,French,Williamsburg,Expensive,TRUE,1.7,7:55 PM,9:31 AM
+623,Golden Harvest Cafe,Chinese,Upper East Side,Expensive,FALSE,3.4,12:43 PM,8:16 AM
+624,Sunny Side Bistro,Chinese,Greenwich Village,Cheap,TRUE,2.0,8:56 AM,12:50 PM
+625,The Rusty Spoon,American,Upper East Side,Cheap,FALSE,2.8,8:33 PM,4:11 PM
+626,The Rusty Spoon,Indian,Chelsea,Cheap,FALSE,4.1,4:22 PM,5:50 PM
+627,Sunny Side Bistro,Greek,Chelsea,Expensive,FALSE,2.5,8:21 AM,11:28 AM
+628,The Rusty Spoon,Greek,Harlem,Expensive,TRUE,1.9,10:23 AM,6:06 AM
+629,Cafe Luna,French,Chelsea,Cheap,TRUE,3.5,2:18 PM,11:24 AM
+630,The Rusty Spoon,Mediterranean,Astoria,Expensive,FALSE,3.9,6:00 PM,5:30 AM
+631,Sunny Side Bistro,Chinese,Harlem,Expensive,FALSE,1.7,11:16 AM,6:45 AM
+632,Golden Harvest Cafe,French,Bed-Stuy,Cheap,TRUE,0.1,5:12 PM,1:26 PM
+633,Cafe Luna,Greek,Bed-Stuy,Expensive,FALSE,1.1,11:58 AM,2:59 AM
+634,Golden Harvest Cafe,Greek,Williamsburg,Medium,FALSE,2.8,12:52 PM,7:39 AM
+635,Sunny Side Bistro,Mexican,Bed-Stuy,Medium,FALSE,1.8,10:12 PM,3:28 AM
+636,Cafe Luna,Japanese,Williamsburg,Expensive,FALSE,0.7,2:00 PM,3:01 AM
+637,Sunny Side Bistro,Mexican,Park Slope,Cheap,FALSE,2.0,11:49 PM,6:59 AM
+638,Harbor Lights Grill,Italian,Long Island City,Expensive,TRUE,5.0,9:47 AM,11:13 AM
+639,Cafe Luna,Italian,Harlem,Medium,FALSE,4.1,1:00 PM,10:41 AM
+640,Golden Harvest Cafe,Mexican,Bushwick,Medium,FALSE,3.6,6:17 PM,3:33 PM
+641,Cafe Luna,Indian,Upper East Side,Medium,TRUE,2.7,12:48 PM,8:43 AM
+642,Golden Harvest Cafe,French,Bed-Stuy,Medium,FALSE,1.7,9:56 PM,3:52 AM
+643,Sunny Side Bistro,American,Williamsburg,Expensive,TRUE,3.3,7:51 AM,3:43 AM
+644,The Rusty Spoon,Mexican,Park Slope,Cheap,TRUE,3.3,6:05 PM,2:35 PM
+645,Harbor Lights Grill,Mexican,Harlem,Cheap,TRUE,1.4,11:42 AM,4:35 AM
+646,Sunny Side Bistro,French,Park Slope,Cheap,FALSE,3.4,5:54 PM,5:14 PM
+647,Cafe Luna,American,Long Island City,Cheap,TRUE,4.8,10:19 PM,7:45 AM
+648,Harbor Lights Grill,Japanese,Greenwich Village,Expensive,FALSE,1.8,12:22 PM,3:06 AM
+649,Harbor Lights Grill,Greek,Williamsburg,Medium,TRUE,4.3,6:06 PM,6:33 AM
+650,Sunny Side Bistro,Indian,Long Island City,Medium,FALSE,4.3,1:51 PM,6:27 PM
+651,The Rusty Spoon,French,Astoria,Cheap,FALSE,0.1,1:47 PM,2:45 PM
+652,Cafe Luna,Greek,Bed-Stuy,Medium,TRUE,3.3,9:31 PM,2:50 AM
+653,Cafe Luna,American,Upper East Side,Expensive,FALSE,3.9,2:56 PM,4:22 AM
+654,Harbor Lights Grill,Greek,Harlem,Cheap,FALSE,2.4,2:42 PM,4:24 AM
+655,Harbor Lights Grill,Mediterranean,Williamsburg,Cheap,TRUE,3.8,7:45 PM,4:12 AM
+656,Golden Harvest Cafe,Chinese,Bed-Stuy,Expensive,TRUE,2.4,11:06 AM,8:05 AM
+657,The Rusty Spoon,Thai,Upper East Side,Expensive,TRUE,3.0,2:41 PM,4:54 AM
+658,Sunny Side Bistro,French,Harlem,Cheap,TRUE,1.7,8:08 AM,1:31 AM
+659,Golden Harvest Cafe,Japanese,Bushwick,Expensive,TRUE,1.4,7:14 PM,7:37 AM
+660,Cafe Luna,Japanese,Upper East Side,Cheap,FALSE,3.5,10:12 PM,5:24 PM
+661,Harbor Lights Grill,Italian,Bed-Stuy,Expensive,TRUE,4.9,9:50 AM,11:53 AM
+662,Harbor Lights Grill,Greek,Park Slope,Cheap,FALSE,2.2,5:24 PM,6:06 AM
+663,Harbor Lights Grill,Japanese,Upper East Side,Medium,TRUE,0.7,10:03 PM,4:44 PM
+664,Golden Harvest Cafe,Japanese,Long Island City,Medium,FALSE,4.5,6:13 PM,2:12 PM
+665,Golden Harvest Cafe,Chinese,Harlem,Cheap,FALSE,4.2,9:49 PM,4:29 PM
+666,The Rusty Spoon,American,Astoria,Cheap,FALSE,0.6,12:35 PM,8:09 AM
+667,Golden Harvest Cafe,Indian,Astoria,Cheap,FALSE,0.3,12:11 PM,4:26 PM
+668,Golden Harvest Cafe,Chinese,Williamsburg,Expensive,TRUE,3.9,9:08 PM,8:00 AM
+669,Harbor Lights Grill,Mediterranean,Upper East Side,Medium,TRUE,2.0,7:56 AM,2:57 AM
+670,Harbor Lights Grill,Greek,Astoria,Expensive,FALSE,1.3,8:19 AM,11:13 AM
+671,The Rusty Spoon,Chinese,Chelsea,Medium,FALSE,4.8,7:08 AM,6:02 PM
+672,Cafe Luna,Italian,Park Slope,Medium,FALSE,4.9,3:49 PM,9:23 AM
+673,Golden Harvest Cafe,American,Bed-Stuy,Medium,TRUE,3.0,4:44 PM,1:34 PM
+674,The Rusty Spoon,Indian,Park Slope,Cheap,TRUE,2.5,3:02 PM,9:24 AM
+675,Golden Harvest Cafe,French,Williamsburg,Medium,FALSE,4.7,5:19 PM,4:33 AM
+676,Harbor Lights Grill,Japanese,Williamsburg,Expensive,TRUE,3.5,12:36 PM,3:47 AM
+677,Sunny Side Bistro,Japanese,Upper East Side,Expensive,TRUE,1.5,7:29 PM,12:11 PM
+678,Harbor Lights Grill,Indian,Astoria,Expensive,TRUE,2.4,7:26 PM,2:18 PM
+679,The Rusty Spoon,Mexican,Bed-Stuy,Medium,FALSE,1.5,11:06 AM,2:29 AM
+680,Golden Harvest Cafe,Mexican,Greenwich Village,Medium,TRUE,1.9,11:27 PM,3:02 PM
+681,The Rusty Spoon,Chinese,Williamsburg,Expensive,TRUE,1.5,11:12 AM,8:35 AM
+682,Sunny Side Bistro,Chinese,Bushwick,Medium,FALSE,1.4,2:40 PM,4:58 PM
+683,Cafe Luna,French,Williamsburg,Medium,FALSE,3.9,11:39 AM,3:33 PM
+684,The Rusty Spoon,Greek,Astoria,Cheap,FALSE,2.2,3:12 PM,7:03 AM
+685,Harbor Lights Grill,Greek,Long Island City,Cheap,FALSE,3.8,12:55 PM,1:49 PM
+686,Harbor Lights Grill,Mediterranean,Long Island City,Medium,TRUE,2.2,12:46 PM,4:59 AM
+687,Golden Harvest Cafe,Greek,Bushwick,Cheap,TRUE,1.4,5:31 PM,6:25 PM
+688,The Rusty Spoon,Mediterranean,Harlem,Medium,FALSE,3.4,2:23 PM,3:57 AM
+689,Golden Harvest Cafe,Japanese,Chelsea,Medium,TRUE,1.3,8:24 PM,3:50 AM
+690,Cafe Luna,French,Park Slope,Cheap,TRUE,2.6,4:14 PM,3:51 AM
+691,Sunny Side Bistro,Mediterranean,Chelsea,Expensive,FALSE,3.6,7:08 AM,2:29 PM
+692,Golden Harvest Cafe,French,Williamsburg,Medium,TRUE,1.7,1:07 PM,7:01 AM
+693,The Rusty Spoon,French,Park Slope,Cheap,FALSE,3.8,11:37 PM,2:13 AM
+694,Cafe Luna,Indian,Bushwick,Cheap,TRUE,0.1,9:10 PM,3:58 PM
+695,Harbor Lights Grill,Mediterranean,Harlem,Medium,FALSE,4.7,3:03 PM,5:47 PM
+696,Golden Harvest Cafe,Mediterranean,Park Slope,Expensive,TRUE,2.0,11:17 AM,2:12 AM
+697,Harbor Lights Grill,French,Greenwich Village,Medium,TRUE,2.6,2:24 PM,10:46 AM
+698,Cafe Luna,Mexican,Harlem,Cheap,FALSE,1.1,9:31 AM,11:36 AM
+699,Sunny Side Bistro,Italian,Greenwich Village,Cheap,TRUE,0.0,2:42 PM,8:59 AM
+700,Golden Harvest Cafe,Chinese,Williamsburg,Expensive,TRUE,4.8,11:32 AM,10:17 AM
+701,Golden Harvest Cafe,Italian,Long Island City,Cheap,TRUE,0.9,7:34 PM,5:04 PM
+702,Sunny Side Bistro,Italian,Upper East Side,Expensive,TRUE,3.2,9:25 PM,5:09 PM
+703,The Rusty Spoon,Thai,Williamsburg,Medium,FALSE,4.6,3:28 PM,2:55 AM
+704,Cafe Luna,American,Greenwich Village,Cheap,FALSE,3.3,11:09 AM,8:35 AM
+705,Sunny Side Bistro,Thai,Upper East Side,Medium,TRUE,4.4,2:15 PM,1:50 PM
+706,The Rusty Spoon,Indian,Williamsburg,Cheap,FALSE,2.3,5:43 PM,10:47 AM
+707,Sunny Side Bistro,Indian,Chelsea,Cheap,FALSE,1.1,7:56 PM,4:58 AM
+708,Harbor Lights Grill,Chinese,Bushwick,Expensive,TRUE,4.5,10:37 PM,6:00 PM
+709,Sunny Side Bistro,Greek,Greenwich Village,Expensive,TRUE,2.5,5:27 PM,6:31 AM
+710,Sunny Side Bistro,Italian,Park Slope,Expensive,TRUE,3.1,11:17 PM,7:03 AM
+711,The Rusty Spoon,Japanese,Chelsea,Medium,FALSE,2.7,10:38 AM,1:31 AM
+712,Sunny Side Bistro,Indian,Greenwich Village,Cheap,FALSE,3.6,11:32 AM,2:27 AM
+713,Cafe Luna,American,Williamsburg,Medium,TRUE,0.3,10:39 AM,2:12 PM
+714,The Rusty Spoon,French,Astoria,Cheap,FALSE,2.7,11:24 AM,8:32 AM
+715,The Rusty Spoon,Mexican,Harlem,Expensive,TRUE,0.9,8:37 AM,12:54 PM
+716,Sunny Side Bistro,French,Greenwich Village,Expensive,TRUE,1.3,7:13 PM,6:01 PM
+717,The Rusty Spoon,Japanese,Bushwick,Expensive,FALSE,2.9,4:03 PM,10:28 AM
+718,Golden Harvest Cafe,Italian,Upper East Side,Medium,TRUE,2.2,4:04 PM,5:25 AM
+719,Harbor Lights Grill,Italian,Long Island City,Expensive,TRUE,4.3,2:40 PM,3:40 AM
+720,The Rusty Spoon,French,Greenwich Village,Medium,TRUE,3.4,8:13 PM,2:37 AM
+721,The Rusty Spoon,Mediterranean,Park Slope,Medium,FALSE,0.8,10:56 PM,2:42 PM
+722,The Rusty Spoon,French,Bushwick,Expensive,FALSE,1.9,7:30 AM,7:39 AM
+723,Golden Harvest Cafe,Chinese,Bushwick,Expensive,FALSE,3.0,6:06 PM,12:03 PM
+724,Sunny Side Bistro,Mediterranean,Long Island City,Cheap,FALSE,0.0,2:44 PM,12:44 PM
+725,Golden Harvest Cafe,Mexican,Long Island City,Cheap,TRUE,4.4,3:56 PM,4:03 AM
+726,Sunny Side Bistro,Italian,Long Island City,Expensive,FALSE,2.9,5:36 PM,1:35 AM
+727,Golden Harvest Cafe,Japanese,Greenwich Village,Medium,TRUE,0.9,1:19 PM,4:05 PM
+728,Golden Harvest Cafe,Japanese,Park Slope,Expensive,FALSE,2.1,9:41 AM,11:52 AM
+729,The Rusty Spoon,Indian,Park Slope,Expensive,FALSE,3.2,6:49 PM,7:56 AM
+730,Harbor Lights Grill,Greek,Greenwich Village,Medium,FALSE,1.0,10:31 AM,11:45 AM
+731,Sunny Side Bistro,Indian,Greenwich Village,Medium,TRUE,0.7,7:48 PM,5:37 PM
+732,Sunny Side Bistro,Thai,Astoria,Medium,FALSE,1.8,11:14 AM,4:56 PM
+733,Cafe Luna,American,Williamsburg,Expensive,FALSE,4.9,8:29 PM,1:54 AM
+734,Harbor Lights Grill,Italian,Greenwich Village,Medium,FALSE,3.4,10:57 PM,2:54 AM
+735,Cafe Luna,Chinese,Upper East Side,Cheap,FALSE,4.7,6:56 PM,7:30 AM
+736,The Rusty Spoon,Thai,Chelsea,Expensive,TRUE,1.5,3:37 PM,2:06 AM
+737,The Rusty Spoon,Thai,Harlem,Expensive,TRUE,4.3,10:25 AM,11:26 AM
+738,Sunny Side Bistro,Mediterranean,Greenwich Village,Cheap,TRUE,4.7,11:55 PM,8:18 AM
+739,Golden Harvest Cafe,Greek,Greenwich Village,Cheap,TRUE,2.8,2:38 PM,8:03 AM
+740,Sunny Side Bistro,French,Chelsea,Cheap,FALSE,2.3,9:45 AM,4:43 PM
+741,Cafe Luna,Italian,Astoria,Medium,TRUE,3.6,9:34 PM,2:37 AM
+742,Golden Harvest Cafe,Japanese,Harlem,Medium,TRUE,2.6,10:51 AM,4:39 PM
+743,Golden Harvest Cafe,Italian,Williamsburg,Medium,TRUE,3.1,7:41 AM,2:59 PM
+744,The Rusty Spoon,French,Upper East Side,Cheap,TRUE,0.5,1:25 PM,10:43 AM
+745,Harbor Lights Grill,Greek,Astoria,Cheap,FALSE,2.3,10:25 AM,3:58 PM
+746,Cafe Luna,French,Long Island City,Expensive,TRUE,3.7,3:31 PM,5:07 PM
+747,Sunny Side Bistro,Italian,Bushwick,Expensive,TRUE,0.2,5:12 PM,5:22 PM
+748,The Rusty Spoon,Japanese,Greenwich Village,Medium,FALSE,4.7,10:06 AM,2:00 AM
+749,The Rusty Spoon,Greek,Long Island City,Medium,TRUE,0.3,9:52 PM,12:29 PM
+750,Cafe Luna,American,Upper East Side,Medium,TRUE,1.3,12:28 PM,3:19 PM
+751,Golden Harvest Cafe,Chinese,Long Island City,Cheap,FALSE,2.1,7:31 PM,2:50 AM
+752,Sunny Side Bistro,Japanese,Astoria,Cheap,TRUE,1.5,12:03 PM,3:17 AM
+753,Harbor Lights Grill,Italian,Harlem,Cheap,FALSE,0.9,9:22 AM,11:36 AM
+754,Harbor Lights Grill,Thai,Bushwick,Medium,FALSE,2.5,10:13 AM,5:12 AM
+755,Cafe Luna,Indian,Williamsburg,Medium,FALSE,0.4,3:58 PM,5:42 AM
+756,Cafe Luna,Greek,Bushwick,Medium,FALSE,0.4,7:39 PM,2:00 AM
+757,Harbor Lights Grill,Chinese,Long Island City,Medium,FALSE,0.1,8:05 PM,2:26 PM
+758,Sunny Side Bistro,Mediterranean,Bed-Stuy,Expensive,TRUE,4.5,8:35 AM,7:53 AM
+759,Sunny Side Bistro,Chinese,Williamsburg,Medium,TRUE,3.1,12:30 PM,11:13 AM
+760,Sunny Side Bistro,French,Greenwich Village,Expensive,TRUE,4.1,6:59 PM,2:27 PM
+761,The Rusty Spoon,Greek,Park Slope,Medium,FALSE,1.4,1:53 PM,6:26 PM
+762,Sunny Side Bistro,American,Upper East Side,Medium,FALSE,2.7,1:34 PM,7:58 AM
+763,Golden Harvest Cafe,Thai,Chelsea,Expensive,TRUE,3.4,5:52 PM,6:01 PM
+764,Sunny Side Bistro,Mediterranean,Park Slope,Cheap,TRUE,5.0,12:45 PM,2:40 AM
+765,Cafe Luna,Greek,Bushwick,Cheap,TRUE,3.7,4:24 PM,3:12 PM
+766,Sunny Side Bistro,French,Chelsea,Medium,FALSE,2.5,8:24 PM,1:45 AM
+767,Sunny Side Bistro,Italian,Williamsburg,Cheap,TRUE,1.9,10:47 PM,4:27 PM
+768,The Rusty Spoon,Italian,Williamsburg,Expensive,TRUE,3.6,8:02 AM,4:26 PM
+769,Golden Harvest Cafe,American,Astoria,Medium,TRUE,4.8,2:14 PM,5:28 PM
+770,Golden Harvest Cafe,Indian,Greenwich Village,Expensive,FALSE,2.2,9:34 PM,7:31 AM
+771,Sunny Side Bistro,Thai,Upper East Side,Expensive,FALSE,2.9,1:45 PM,8:19 AM
+772,Harbor Lights Grill,Mediterranean,Long Island City,Expensive,FALSE,1.7,5:40 PM,1:36 AM
+773,Harbor Lights Grill,French,Harlem,Cheap,FALSE,1.5,10:57 PM,2:51 PM
+774,Harbor Lights Grill,Italian,Chelsea,Cheap,TRUE,3.2,8:17 AM,10:45 AM
+775,Golden Harvest Cafe,Chinese,Bed-Stuy,Medium,TRUE,4.2,6:05 PM,4:39 PM
+776,Sunny Side Bistro,Japanese,Astoria,Expensive,FALSE,1.9,10:10 AM,6:21 PM
+777,Sunny Side Bistro,Thai,Greenwich Village,Cheap,FALSE,3.9,5:33 PM,5:37 AM
+778,Sunny Side Bistro,Thai,Astoria,Expensive,TRUE,0.2,7:42 AM,7:04 AM
+779,The Rusty Spoon,French,Upper East Side,Expensive,FALSE,2.3,11:35 AM,10:56 AM
+780,Harbor Lights Grill,Italian,Bed-Stuy,Expensive,FALSE,2.5,7:49 AM,6:00 AM
+781,Sunny Side Bistro,Mexican,Chelsea,Cheap,TRUE,3.1,11:23 AM,10:00 AM
+782,Sunny Side Bistro,French,Bed-Stuy,Cheap,TRUE,1.8,12:37 PM,4:58 PM
+783,Golden Harvest Cafe,American,Harlem,Medium,FALSE,1.8,4:58 PM,3:51 PM
+784,Sunny Side Bistro,Thai,Park Slope,Expensive,FALSE,2.6,8:13 AM,4:30 AM
+785,Sunny Side Bistro,American,Harlem,Cheap,FALSE,3.0,3:26 PM,2:36 PM
+786,Cafe Luna,Mediterranean,Greenwich Village,Cheap,TRUE,3.1,11:18 AM,7:24 AM
+787,Cafe Luna,Italian,Astoria,Medium,TRUE,2.0,10:28 AM,12:52 PM
+788,The Rusty Spoon,French,Bed-Stuy,Cheap,TRUE,3.9,7:59 AM,6:55 AM
+789,Sunny Side Bistro,Indian,Park Slope,Expensive,TRUE,0.7,1:29 PM,2:13 PM
+790,Cafe Luna,Greek,Bushwick,Medium,TRUE,4.8,4:06 PM,2:09 AM
+791,Sunny Side Bistro,Italian,Greenwich Village,Medium,TRUE,0.3,3:03 PM,6:35 AM
+792,Golden Harvest Cafe,Greek,Astoria,Medium,TRUE,1.4,7:53 AM,4:08 AM
+793,Cafe Luna,Italian,Bushwick,Expensive,TRUE,4.8,6:46 PM,3:02 AM
+794,Sunny Side Bistro,Japanese,Bushwick,Expensive,FALSE,1.6,8:52 AM,3:03 AM
+795,Golden Harvest Cafe,Mexican,Astoria,Expensive,FALSE,1.3,10:24 AM,4:41 PM
+796,Harbor Lights Grill,Chinese,Park Slope,Medium,FALSE,2.5,2:37 PM,4:38 PM
+797,Sunny Side Bistro,Mexican,Upper East Side,Expensive,FALSE,4.1,8:09 PM,6:29 AM
+798,Cafe Luna,Japanese,Harlem,Expensive,FALSE,2.5,8:11 AM,5:40 PM
+799,Cafe Luna,French,Greenwich Village,Medium,TRUE,0.5,11:16 PM,5:20 AM
+800,Golden Harvest Cafe,Indian,Bushwick,Medium,TRUE,4.7,7:41 PM,4:43 PM
+801,Cafe Luna,Thai,Upper East Side,Expensive,TRUE,2.1,11:05 AM,2:57 PM
+802,Golden Harvest Cafe,Chinese,Astoria,Medium,FALSE,3.0,2:12 PM,3:34 PM
+803,Sunny Side Bistro,Greek,Astoria,Expensive,FALSE,0.7,8:30 PM,11:48 AM
+804,Cafe Luna,Mexican,Harlem,Cheap,FALSE,0.9,8:20 PM,7:42 AM
+805,Golden Harvest Cafe,Chinese,Astoria,Cheap,TRUE,2.5,12:38 PM,7:23 AM
+806,Sunny Side Bistro,Greek,Greenwich Village,Medium,FALSE,0.2,8:24 PM,8:39 AM
+807,Cafe Luna,Chinese,Greenwich Village,Cheap,TRUE,1.5,7:00 PM,7:14 AM
+808,Cafe Luna,Greek,Harlem,Expensive,TRUE,1.8,4:41 PM,5:07 AM
+809,The Rusty Spoon,Chinese,Bed-Stuy,Medium,FALSE,0.3,3:19 PM,7:59 AM
+810,Harbor Lights Grill,Indian,Upper East Side,Cheap,FALSE,2.2,11:37 PM,2:51 PM
+811,Harbor Lights Grill,Greek,Greenwich Village,Medium,FALSE,2.5,7:18 AM,5:48 AM
+812,Golden Harvest Cafe,American,Upper East Side,Cheap,TRUE,3.0,3:58 PM,8:30 AM
+813,Cafe Luna,Chinese,Harlem,Medium,TRUE,2.4,5:22 PM,3:47 AM
+814,Sunny Side Bistro,Chinese,Harlem,Cheap,TRUE,0.1,9:34 PM,4:03 AM
+815,The Rusty Spoon,American,Williamsburg,Expensive,TRUE,1.6,7:12 PM,2:59 AM
+816,Sunny Side Bistro,American,Williamsburg,Medium,TRUE,4.8,9:28 AM,11:20 AM
+817,Cafe Luna,Greek,Bushwick,Cheap,FALSE,3.9,3:34 PM,5:30 AM
+818,The Rusty Spoon,Indian,Park Slope,Medium,TRUE,0.0,5:19 PM,12:41 PM
+819,Sunny Side Bistro,Mediterranean,Upper East Side,Medium,TRUE,2.0,11:14 AM,7:30 AM
+820,Cafe Luna,French,Park Slope,Expensive,FALSE,4.6,4:03 PM,3:44 AM
+821,Harbor Lights Grill,Chinese,Bushwick,Medium,FALSE,2.5,9:01 AM,6:29 AM
+822,Sunny Side Bistro,Greek,Bushwick,Medium,TRUE,2.2,8:26 PM,7:11 AM
+823,Cafe Luna,Chinese,Williamsburg,Cheap,TRUE,2.6,11:04 PM,5:17 AM
+824,Cafe Luna,Chinese,Bushwick,Medium,FALSE,4.4,5:16 PM,10:18 AM
+825,Golden Harvest Cafe,Mediterranean,Astoria,Medium,FALSE,1.0,1:11 PM,12:17 PM
+826,Golden Harvest Cafe,Italian,Park Slope,Medium,FALSE,1.5,11:46 PM,1:07 PM
+827,Sunny Side Bistro,French,Bushwick,Expensive,FALSE,2.1,3:59 PM,1:49 AM
+828,Golden Harvest Cafe,Mediterranean,Greenwich Village,Medium,FALSE,2.1,8:36 AM,1:52 AM
+829,Sunny Side Bistro,Greek,Upper East Side,Cheap,FALSE,1.9,5:11 PM,5:14 PM
+830,Sunny Side Bistro,French,Harlem,Cheap,TRUE,3.9,12:04 PM,9:07 AM
+831,Sunny Side Bistro,Chinese,Bed-Stuy,Medium,TRUE,2.9,6:36 PM,12:35 PM
+832,The Rusty Spoon,Greek,Astoria,Expensive,TRUE,2.7,9:42 AM,5:13 AM
+833,Harbor Lights Grill,Greek,Astoria,Medium,TRUE,4.7,9:02 AM,5:07 AM
+834,Golden Harvest Cafe,French,Bed-Stuy,Cheap,TRUE,4.1,11:26 AM,1:40 PM
+835,Cafe Luna,French,Astoria,Cheap,TRUE,3.1,11:06 AM,12:59 PM
+836,Sunny Side Bistro,Mexican,Chelsea,Cheap,TRUE,3.0,2:27 PM,4:18 PM
+837,The Rusty Spoon,French,Long Island City,Expensive,TRUE,3.0,6:18 PM,11:13 AM
+838,The Rusty Spoon,Italian,Harlem,Expensive,TRUE,1.4,9:58 AM,1:17 PM
+839,Harbor Lights Grill,Chinese,Upper East Side,Expensive,TRUE,3.2,7:17 AM,5:31 AM
+840,Sunny Side Bistro,American,Harlem,Cheap,TRUE,3.6,8:45 PM,2:58 AM
+841,The Rusty Spoon,Mediterranean,Bed-Stuy,Cheap,FALSE,3.2,2:36 PM,11:05 AM
+842,The Rusty Spoon,French,Astoria,Cheap,FALSE,5.0,12:19 PM,10:40 AM
+843,Sunny Side Bistro,Thai,Upper East Side,Cheap,FALSE,0.2,2:13 PM,1:29 PM
+844,Cafe Luna,Greek,Astoria,Cheap,FALSE,1.6,7:37 AM,8:28 AM
+845,Cafe Luna,French,Harlem,Cheap,FALSE,1.3,9:35 PM,2:15 PM
+846,Sunny Side Bistro,Greek,Harlem,Expensive,TRUE,1.1,8:41 AM,4:46 PM
+847,Sunny Side Bistro,Mediterranean,Upper East Side,Medium,TRUE,1.4,7:23 PM,6:07 AM
+848,Harbor Lights Grill,Chinese,Long Island City,Expensive,FALSE,4.8,8:14 AM,2:44 PM
+849,The Rusty Spoon,Indian,Bed-Stuy,Expensive,TRUE,3.5,9:37 PM,8:57 AM
+850,Golden Harvest Cafe,French,Harlem,Expensive,TRUE,4.9,7:35 PM,5:11 PM
+851,Cafe Luna,Greek,Greenwich Village,Cheap,FALSE,0.9,7:30 AM,8:25 AM
+852,Sunny Side Bistro,French,Astoria,Expensive,TRUE,0.7,2:02 PM,2:35 AM
+853,The Rusty Spoon,Japanese,Harlem,Medium,TRUE,0.6,8:10 AM,5:29 AM
+854,Golden Harvest Cafe,Mexican,Park Slope,Medium,FALSE,2.2,10:50 PM,7:46 AM
+855,Harbor Lights Grill,Greek,Bed-Stuy,Cheap,FALSE,3.8,7:55 AM,4:51 PM
+856,Harbor Lights Grill,Thai,Astoria,Medium,TRUE,3.6,7:46 AM,4:45 PM
+857,Harbor Lights Grill,Indian,Greenwich Village,Expensive,TRUE,0.0,10:32 PM,5:18 AM
+858,Cafe Luna,Mexican,Greenwich Village,Expensive,TRUE,3.5,10:31 PM,2:45 PM
+859,Sunny Side Bistro,Japanese,Astoria,Cheap,FALSE,3.4,8:47 PM,5:43 PM
+860,Cafe Luna,Thai,Greenwich Village,Expensive,FALSE,3.7,4:32 PM,5:56 PM
+861,Golden Harvest Cafe,Japanese,Park Slope,Cheap,TRUE,4.9,8:46 AM,10:43 AM
+862,Golden Harvest Cafe,Thai,Greenwich Village,Cheap,TRUE,3.9,7:52 AM,5:03 PM
+863,The Rusty Spoon,Mexican,Park Slope,Cheap,TRUE,3.1,2:27 PM,1:19 PM
+864,Sunny Side Bistro,French,Williamsburg,Medium,FALSE,2.3,7:54 PM,3:42 PM
+865,Harbor Lights Grill,Indian,Astoria,Expensive,TRUE,4.7,7:14 PM,12:47 PM
+866,Cafe Luna,French,Bushwick,Medium,FALSE,1.6,2:44 PM,6:04 AM
+867,Cafe Luna,American,Park Slope,Cheap,FALSE,3.8,8:47 AM,5:09 AM
+868,Harbor Lights Grill,American,Upper East Side,Expensive,TRUE,1.4,4:23 PM,7:49 AM
+869,The Rusty Spoon,Mediterranean,Bushwick,Expensive,TRUE,3.0,9:39 PM,3:17 AM
+870,Cafe Luna,French,Astoria,Medium,FALSE,0.0,1:34 PM,3:02 PM
+871,Harbor Lights Grill,Thai,Park Slope,Medium,FALSE,2.1,12:38 PM,9:31 AM
+872,Cafe Luna,American,Williamsburg,Expensive,FALSE,2.4,7:24 PM,6:23 PM
+873,Sunny Side Bistro,Italian,Greenwich Village,Medium,TRUE,2.9,12:56 PM,5:32 PM
+874,Sunny Side Bistro,American,Park Slope,Expensive,TRUE,3.1,4:12 PM,11:29 AM
+875,Cafe Luna,Thai,Park Slope,Expensive,FALSE,1.9,11:00 PM,7:47 AM
+876,Harbor Lights Grill,Chinese,Greenwich Village,Cheap,FALSE,3.7,11:11 PM,5:46 PM
+877,Sunny Side Bistro,Japanese,Chelsea,Cheap,TRUE,1.6,11:52 AM,2:03 AM
+878,Golden Harvest Cafe,Thai,Park Slope,Medium,FALSE,0.4,4:51 PM,4:12 PM
+879,Sunny Side Bistro,Italian,Williamsburg,Expensive,FALSE,2.8,9:27 PM,8:03 AM
+880,Sunny Side Bistro,Chinese,Harlem,Expensive,FALSE,0.2,7:37 AM,2:44 PM
+881,Harbor Lights Grill,Greek,Williamsburg,Cheap,FALSE,4.7,12:05 PM,10:49 AM
+882,The Rusty Spoon,Japanese,Harlem,Cheap,FALSE,1.0,10:30 PM,5:22 AM
+883,Golden Harvest Cafe,Mediterranean,Bushwick,Expensive,TRUE,1.5,11:52 AM,3:46 AM
+884,Harbor Lights Grill,Thai,Park Slope,Medium,TRUE,2.6,12:57 PM,10:50 AM
+885,Sunny Side Bistro,Japanese,Upper East Side,Medium,FALSE,2.6,3:54 PM,6:30 AM
+886,Golden Harvest Cafe,Italian,Harlem,Expensive,FALSE,0.9,6:18 PM,10:31 AM
+887,The Rusty Spoon,Chinese,Bushwick,Expensive,FALSE,0.4,12:32 PM,6:37 AM
+888,The Rusty Spoon,Thai,Astoria,Medium,FALSE,1.0,11:20 PM,11:15 AM
+889,Golden Harvest Cafe,Japanese,Greenwich Village,Expensive,TRUE,0.9,7:36 PM,3:38 PM
+890,Sunny Side Bistro,Japanese,Williamsburg,Expensive,TRUE,0.1,5:54 PM,2:38 PM
+891,The Rusty Spoon,Chinese,Bushwick,Medium,FALSE,1.5,4:02 PM,1:31 AM
+892,Harbor Lights Grill,Chinese,Harlem,Medium,TRUE,3.2,1:02 PM,12:01 PM
+893,Cafe Luna,Chinese,Greenwich Village,Medium,FALSE,2.4,10:49 PM,6:00 PM
+894,Cafe Luna,Italian,Upper East Side,Medium,FALSE,1.6,5:10 PM,5:31 AM
+895,Sunny Side Bistro,Indian,Greenwich Village,Cheap,FALSE,1.6,4:12 PM,3:16 PM
+896,Sunny Side Bistro,Thai,Park Slope,Medium,FALSE,3.9,11:11 PM,11:17 AM
+897,The Rusty Spoon,American,Harlem,Cheap,FALSE,1.7,11:12 PM,10:47 AM
+898,Cafe Luna,Italian,Williamsburg,Cheap,FALSE,2.3,8:40 AM,1:29 PM
+899,Cafe Luna,American,Astoria,Cheap,TRUE,4.9,8:46 PM,3:17 AM
+900,Golden Harvest Cafe,American,Williamsburg,Expensive,FALSE,2.4,11:46 PM,1:54 AM
+901,The Rusty Spoon,Indian,Astoria,Cheap,FALSE,3.4,1:59 PM,2:37 AM
+902,Sunny Side Bistro,Mediterranean,Chelsea,Expensive,FALSE,4.4,2:00 PM,1:47 AM
+903,Cafe Luna,Chinese,Harlem,Medium,TRUE,2.0,7:14 PM,3:44 AM
+904,Cafe Luna,Mexican,Bushwick,Medium,TRUE,2.2,5:49 PM,2:20 AM
+905,Harbor Lights Grill,Chinese,Greenwich Village,Expensive,TRUE,4.9,5:14 PM,11:23 AM
+906,Sunny Side Bistro,Indian,Astoria,Medium,TRUE,1.2,7:49 PM,5:21 AM
+907,Sunny Side Bistro,Japanese,Greenwich Village,Cheap,TRUE,3.7,4:10 PM,9:47 AM
+908,Harbor Lights Grill,Japanese,Williamsburg,Medium,FALSE,1.2,9:33 AM,4:02 AM
+909,The Rusty Spoon,Japanese,Long Island City,Expensive,TRUE,4.0,2:25 PM,10:07 AM
+910,Cafe Luna,Mexican,Upper East Side,Medium,FALSE,3.0,2:31 PM,1:32 PM
+911,The Rusty Spoon,French,Bushwick,Expensive,TRUE,2.5,1:55 PM,9:14 AM
+912,Sunny Side Bistro,Japanese,Bed-Stuy,Expensive,TRUE,2.3,8:22 PM,7:06 AM
+913,Harbor Lights Grill,Chinese,Greenwich Village,Expensive,FALSE,0.7,8:45 AM,6:24 PM
+914,Cafe Luna,Thai,Harlem,Medium,FALSE,0.9,8:51 AM,7:58 AM
+915,Harbor Lights Grill,French,Bed-Stuy,Expensive,TRUE,4.5,3:54 PM,10:04 AM
+916,Sunny Side Bistro,Italian,Astoria,Cheap,TRUE,2.7,7:33 PM,6:43 AM
+917,Cafe Luna,Chinese,Williamsburg,Medium,FALSE,1.8,9:32 PM,1:41 PM
+918,Cafe Luna,Italian,Park Slope,Expensive,FALSE,4.8,7:14 PM,9:38 AM
+919,Harbor Lights Grill,Chinese,Park Slope,Expensive,TRUE,4.7,9:20 PM,6:10 PM
+920,Sunny Side Bistro,Mediterranean,Chelsea,Medium,FALSE,3.5,11:03 PM,1:43 AM
+921,Golden Harvest Cafe,Indian,Chelsea,Cheap,FALSE,2.3,2:36 PM,10:49 AM
+922,Golden Harvest Cafe,Japanese,Bushwick,Expensive,TRUE,1.0,8:18 AM,3:33 AM
+923,The Rusty Spoon,Mexican,Greenwich Village,Medium,FALSE,3.4,12:11 PM,10:48 AM
+924,Harbor Lights Grill,Chinese,Bushwick,Medium,TRUE,3.6,10:39 PM,10:31 AM
+925,Harbor Lights Grill,French,Chelsea,Cheap,FALSE,1.0,9:57 AM,9:07 AM
+926,Golden Harvest Cafe,Greek,Long Island City,Cheap,FALSE,4.9,8:03 PM,2:32 PM
+927,Sunny Side Bistro,Mexican,Astoria,Medium,TRUE,4.0,9:13 AM,4:41 AM
+928,Harbor Lights Grill,French,Long Island City,Expensive,FALSE,4.4,12:05 PM,3:12 AM
+929,Harbor Lights Grill,Mexican,Chelsea,Medium,TRUE,3.8,10:26 PM,4:27 PM
+930,Cafe Luna,Indian,Williamsburg,Expensive,FALSE,2.6,10:36 PM,7:35 AM
+931,Sunny Side Bistro,Italian,Bushwick,Cheap,FALSE,1.2,8:26 PM,6:59 AM
+932,The Rusty Spoon,Japanese,Bed-Stuy,Expensive,FALSE,4.9,9:13 AM,3:38 AM
+933,Golden Harvest Cafe,Mediterranean,Bushwick,Medium,TRUE,3.5,11:43 PM,2:41 AM
+934,Harbor Lights Grill,Japanese,Greenwich Village,Cheap,TRUE,3.7,4:18 PM,4:59 AM
+935,Sunny Side Bistro,Thai,Park Slope,Cheap,TRUE,0.3,9:39 PM,2:22 PM
+936,Harbor Lights Grill,Mediterranean,Park Slope,Expensive,TRUE,3.7,12:14 PM,5:14 AM
+937,Sunny Side Bistro,Japanese,Harlem,Expensive,TRUE,2.1,5:42 PM,7:21 AM
+938,Golden Harvest Cafe,Thai,Bed-Stuy,Medium,TRUE,1.5,6:49 PM,5:26 AM
+939,Sunny Side Bistro,Mediterranean,Bushwick,Medium,TRUE,4.6,1:38 PM,12:49 PM
+940,Sunny Side Bistro,Thai,Upper East Side,Medium,TRUE,1.2,4:46 PM,8:34 AM
+941,The Rusty Spoon,Italian,Harlem,Expensive,TRUE,0.3,6:55 PM,7:05 AM
+942,Cafe Luna,Greek,Park Slope,Expensive,FALSE,0.2,12:40 PM,3:10 AM
+943,Cafe Luna,Italian,Greenwich Village,Expensive,FALSE,3.1,6:54 PM,1:56 AM
+944,Golden Harvest Cafe,American,Harlem,Expensive,FALSE,0.8,10:29 AM,8:11 AM
+945,Cafe Luna,French,Astoria,Cheap,FALSE,2.4,12:18 PM,4:59 AM
+946,The Rusty Spoon,Italian,Williamsburg,Medium,TRUE,5.0,8:10 PM,9:25 AM
+947,The Rusty Spoon,Mediterranean,Park Slope,Expensive,TRUE,2.2,9:27 PM,1:36 AM
+948,Sunny Side Bistro,Mediterranean,Bushwick,Expensive,TRUE,2.9,9:19 AM,3:36 PM
+949,The Rusty Spoon,Mediterranean,Bushwick,Cheap,FALSE,1.7,2:47 PM,7:56 AM
+950,Cafe Luna,Chinese,Astoria,Medium,TRUE,1.2,11:23 AM,8:05 AM
+951,Golden Harvest Cafe,Indian,Bushwick,Cheap,FALSE,2.1,7:47 AM,12:49 PM
+952,Golden Harvest Cafe,Thai,Astoria,Cheap,TRUE,4.2,8:06 PM,2:34 PM
+953,Harbor Lights Grill,Chinese,Harlem,Medium,TRUE,4.7,4:21 PM,7:15 AM
+954,Sunny Side Bistro,Greek,Long Island City,Cheap,FALSE,0.7,11:09 PM,10:13 AM
+955,Sunny Side Bistro,Greek,Chelsea,Medium,TRUE,3.3,7:50 PM,7:29 AM
+956,Golden Harvest Cafe,Japanese,Long Island City,Medium,TRUE,2.7,10:38 PM,5:05 AM
+957,Golden Harvest Cafe,Italian,Bushwick,Medium,FALSE,4.4,10:25 PM,7:18 AM
+958,Golden Harvest Cafe,Mediterranean,Long Island City,Cheap,TRUE,0.4,11:20 PM,5:02 PM
+959,Cafe Luna,Greek,Long Island City,Cheap,TRUE,2.6,12:01 PM,7:24 AM
+960,Sunny Side Bistro,Italian,Greenwich Village,Expensive,TRUE,2.7,4:49 PM,7:11 AM
+961,Golden Harvest Cafe,Japanese,Long Island City,Expensive,TRUE,4.6,4:09 PM,9:21 AM
+962,Sunny Side Bistro,American,Upper East Side,Medium,FALSE,3.5,2:34 PM,2:05 AM
+963,The Rusty Spoon,Italian,Long Island City,Expensive,TRUE,2.0,12:28 PM,8:07 AM
+964,The Rusty Spoon,French,Long Island City,Medium,TRUE,2.5,9:09 PM,3:06 AM
+965,Harbor Lights Grill,Greek,Greenwich Village,Cheap,TRUE,1.5,7:21 PM,11:01 AM
+966,Cafe Luna,Indian,Long Island City,Expensive,TRUE,2.9,6:48 PM,10:47 AM
+967,Sunny Side Bistro,Mediterranean,Chelsea,Cheap,FALSE,1.8,8:40 PM,11:47 AM
+968,Sunny Side Bistro,Indian,Astoria,Medium,TRUE,4.9,10:31 AM,6:07 PM
+969,The Rusty Spoon,French,Bushwick,Medium,TRUE,2.9,9:58 PM,3:52 AM
+970,Cafe Luna,Japanese,Chelsea,Expensive,TRUE,2.2,12:46 PM,3:09 AM
+971,Harbor Lights Grill,American,Williamsburg,Cheap,FALSE,1.9,11:52 PM,1:36 AM
+972,The Rusty Spoon,French,Harlem,Cheap,FALSE,1.3,2:30 PM,4:42 PM
+973,Cafe Luna,Mexican,Greenwich Village,Cheap,FALSE,3.2,7:49 AM,12:07 PM
+974,The Rusty Spoon,Italian,Bushwick,Cheap,TRUE,2.2,3:13 PM,5:29 PM
+975,The Rusty Spoon,French,Astoria,Expensive,FALSE,0.6,7:11 AM,9:40 AM
+976,The Rusty Spoon,Japanese,Greenwich Village,Medium,TRUE,2.0,9:53 PM,5:57 AM
+977,Harbor Lights Grill,French,Greenwich Village,Cheap,FALSE,3.3,12:25 PM,2:09 AM
+978,Harbor Lights Grill,Thai,Harlem,Medium,FALSE,3.7,1:15 PM,8:29 AM
+979,Cafe Luna,Italian,Bushwick,Cheap,TRUE,2.9,10:10 AM,11:51 AM
+980,Golden Harvest Cafe,American,Long Island City,Medium,TRUE,0.1,4:28 PM,3:55 AM
+981,Cafe Luna,Japanese,Astoria,Cheap,TRUE,1.0,6:11 PM,5:08 PM
+982,Sunny Side Bistro,Indian,Astoria,Medium,TRUE,3.0,7:09 AM,11:01 AM
+983,Harbor Lights Grill,French,Upper East Side,Cheap,FALSE,1.5,12:33 PM,5:06 AM
+984,Sunny Side Bistro,American,Bed-Stuy,Expensive,TRUE,3.0,6:19 PM,3:34 AM
+985,Cafe Luna,American,Bed-Stuy,Medium,FALSE,3.6,7:35 AM,2:33 PM
+986,Golden Harvest Cafe,Mexican,Long Island City,Cheap,TRUE,0.9,8:09 AM,7:33 AM
+987,Golden Harvest Cafe,French,Long Island City,Expensive,TRUE,1.3,9:35 PM,3:09 PM
+988,Harbor Lights Grill,Indian,Upper East Side,Expensive,TRUE,2.7,10:06 AM,7:58 AM
+989,The Rusty Spoon,American,Astoria,Medium,TRUE,2.8,11:29 AM,8:42 AM
+990,Cafe Luna,Italian,Upper East Side,Cheap,FALSE,0.4,1:32 PM,6:28 PM
+991,Sunny Side Bistro,Italian,Harlem,Expensive,TRUE,2.2,5:26 PM,5:25 PM
+992,Sunny Side Bistro,Indian,Greenwich Village,Expensive,FALSE,4.7,7:20 AM,3:20 PM
+993,Golden Harvest Cafe,American,Williamsburg,Medium,TRUE,0.4,11:27 AM,7:17 AM
+994,The Rusty Spoon,American,Bushwick,Expensive,TRUE,1.0,9:43 PM,2:07 AM
+995,The Rusty Spoon,American,Long Island City,Cheap,TRUE,2.7,10:46 PM,5:26 PM
+996,Sunny Side Bistro,Indian,Long Island City,Expensive,TRUE,2.2,5:41 PM,5:44 AM
+997,Cafe Luna,Japanese,Bed-Stuy,Cheap,TRUE,1.0,5:27 PM,5:39 PM
+998,Cafe Luna,French,Astoria,Expensive,TRUE,1.6,11:40 PM,4:15 AM
+999,Sunny Side Bistro,American,Bushwick,Cheap,FALSE,2.5,3:25 PM,9:00 AM
+1000,Golden Harvest Cafe,Italian,Upper East Side,Cheap,FALSE,1.4,7:30 PM,7:39 AM
