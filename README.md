@@ -12,7 +12,7 @@
 - Good For Kids = A boolean value of True or False depending on if the restaurant is good for kids
 - AverageRating = The average star rating for each restaurant ranging from 1 through 5
 - Opening Hours = Opening times in 24HR ranging format from 9AM to 11:59AM
-- Closing Hours = Closing times in 24HR ranging format from 7:30PM to 11:59AM
+- Closing Hours = Closing times in 24HR ranging format from 7:30PM to 11:59PM
 
 ### Creating Tables
 I start off by creating my database for restaurants.
