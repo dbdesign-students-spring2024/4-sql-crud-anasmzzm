@@ -111,3 +111,139 @@ This is the table that I got:
 | Park Slope        | 96                    |
 | Upper East Side   | 105                   |
 | Williamsburg      | 89                    |
+
+
+## Part 2: Social Media App
+
+### Practice Data
+Users Dataset
+- id = Unique ID for each user from 1 through 1000
+- email =  Unique email for each user
+- username = unique username for each user
+- password = password for each user
+
+Posts Dataset
+- id = Unique ID for each activity on platform
+- sender_id = the user ID for the user sending the message or story
+- reciever_id = the user ID for the user recieving the message or story
+- content = content of post
+- content_type = labeling whether it was a message or story
+- privacy = True if private, False if not
+- time_posted = The date and time when the content was posted / sent
+
+### Creating Tables
+I start off by creating my database for the social media app.
+```sql
+sqlite3 socialmedia.db
+```
+Then, I create my table for users.
+```sql
+CREATE TABLE users (
+    id INT PRIMARY KEY AUTOINCREMENT,
+    email TEXT UNIQUE,
+    username TEXT UNIQUE,
+    password TEXT
+);
+```
+
+Then, I create a table for posts.
+```sql
+CREATE TABLE posts (
+    id INT PRIMARY KEY AUTOINCREMENT,
+    sender_id INT,
+    reciever_id INT,
+    content TEXT,
+    content_type TEXT,
+    privacy BOOLEAN,
+    time_posted DATETIME,
+    FOREIGN KEY (sender_id) REFERENCES users(id),
+    FOREIGN KEY (recipient_id) REFERENCES users(id),
+); 
+```
+
+Now, I import the necessary datafiles into my databases.
+```sql
+.mode csv
+import ./data/users.csv users
+import ./data/posts.csv posts
+```
+
+### Queries
+
+- Registering a New User
+```sql
+INSERT INTO users (email, username, password)
+VALUES ('new.user@nyu.edu', 'newuser', 'Password!');
+```
+
+- Create a new Message sent by User 200 to User 847.
+```sql
+INSERT INTO posts (sender_id, reciever_id, content, content_type, privacy, time_posted)
+VALUES (200, 847, 'heyy', 'message', 'true', datetime('now'));
+```
+
+- Create a new Story by user 200.
+```sql
+INSERT INTO posts (sender_id, content, content_type, privacy, time_posted)
+VALUES (200, 'who want me ;)', 'story', 'false', datetime('now'));
+```
+
+- Show the 10 most recent visible Messages and Stories, in order of recency.
+```sql
+SELECT * 
+FROM posts 
+WHERE privacy = False 
+ORDER BY time_posted
+DESC LIMIT 10;
+```
+
+- Show the 10 most recent visible Messages sent by User 200 to a User 847.
+```sql
+SELECT *
+FROM posts 
+WHERE sender_id = 200  
+AND reciever_id = 847 
+AND content_type = 'Message' 
+AND privacy = False 
+ORDER BY time_posted DESC LIMIT 10;
+```
+
+- Make all Stories that are more than 24 hours old invisible.
+```sql
+UPDATE posts 
+SET privacy = True 
+WHERE content_type = 'story' 
+AND (JULIANDAY('now') - JULIANDAY(created_at)) * 24 > 24;
+```
+
+- Show all invisible Messages and Stories, in order of recency.
+```sql
+SELECT *
+FROM posts 
+WHERE privacy = True  
+ORDER BY time_posted DESC;
+```
+
+- Show the number of posts by each User.
+```sql
+SELECT user_id, COUNT(content_type) AS post_sum 
+FROM posts 
+GROUP BY user_id
+```
+
+- Show the post text and email address of all posts and the User who made them within the last 24 hours.
+```sql
+SELECT posts.content, users.email
+FROM posts
+JOIN users
+on posts.sender_id = users.id
+WHERE (JULIANDAY('now') - JULIANDAY(created_at)) * 24 > 24
+ORDER BY posts.time_posted DESC;
+```
+
+- Show the email addresses of all Users who have not posted anything yet.
+```sql
+SELECT users.email
+LEFT JOIN posts ON users.id = posts.sender_id
+WHERE users.id NOT IN (SELECT sender_id FROM posts);
+```
